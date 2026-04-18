@@ -980,69 +980,6 @@
     "url": "dkshin_dighldi.gov.bd"
   },
   {
-    "id": "141",
-    "upazilla_id": "197",
-    "name": "Gnggapur",
-    "bn_name": "গংগাপুর",
-    "url": "gnggapur.gov.bd"
-  },
-  {
-    "id": "142",
-    "upazilla_id": "197",
-    "name": "Sachda",
-    "bn_name": "সাচড়া",
-    "url": "sachda.gov.bd"
-  },
-  {
-    "id": "143",
-    "upazilla_id": "197",
-    "name": "Kachija",
-    "bn_name": "কাচিয়া",
-    "url": "kachija_burhanuddin.gov.bd"
-  },
-  {
-    "id": "144",
-    "upazilla_id": "197",
-    "name": "Hasanngr",
-    "bn_name": "হাসাননগর",
-    "url": "hasanngr.gov.bd"
-  },
-  {
-    "id": "145",
-    "upazilla_id": "197",
-    "name": "Tbgi",
-    "bn_name": "টবগী",
-    "url": "tbgi.gov.bd"
-  },
-  {
-    "id": "146",
-    "upazilla_id": "197",
-    "name": "Pkshija",
-    "bn_name": "পক্ষিয়া",
-    "url": "pkshija.gov.bd"
-  },
-  {
-    "id": "147",
-    "upazilla_id": "197",
-    "name": "Bd Manika",
-    "bn_name": "বড় মানিকা",
-    "url": "bd_manika.gov.bd"
-  },
-  {
-    "id": "148",
-    "upazilla_id": "197",
-    "name": "Kutuba",
-    "bn_name": "কুতুবা",
-    "url": "kutuba.gov.bd"
-  },
-  {
-    "id": "149",
-    "upazilla_id": "197",
-    "name": "Deula",
-    "bn_name": "দেউলা",
-    "url": "deula.gov.bd"
-  },
-  {
     "id": "150",
     "upazilla_id": "261",
     "name": "Achhlampur",
@@ -2171,21 +2108,21 @@
   },
   {
     "id": "311",
-    "upazilla_id": "190",
+    "upazilla_id": "245",
     "name": "Paderhat",
     "bn_name": "পাড়েরহাট",
     "url": "paderhat.gov.bd"
   },
   {
     "id": "312",
-    "upazilla_id": "190",
+    "upazilla_id": "245",
     "name": "Pttashi",
     "bn_name": "পত্তাশি",
     "url": "pttashi.gov.bd"
   },
   {
     "id": "313",
-    "upazilla_id": "190",
+    "upazilla_id": "245",
     "name": "Balipada",
     "bn_name": "বালিপাড়া",
     "url": "balipada.gov.bd"
@@ -5852,90 +5789,6 @@
     "url": "alkra.gov.bd"
   },
   {
-    "id": "837",
-    "upazilla_id": "11",
-    "name": "Kalirbajar",
-    "bn_name": "কালিরবাজার",
-    "url": "kalirbajar.gov.bd"
-  },
-  {
-    "id": "838",
-    "upazilla_id": "11",
-    "name": "Durgapur Dkshin",
-    "bn_name": "দুর্গাপুর দক্ষিণ",
-    "url": "durgapur_dkshin.gov.bd"
-  },
-  {
-    "id": "839",
-    "upazilla_id": "11",
-    "name": "Durgapur Uttr",
-    "bn_name": "দুর্গাপুর উত্তর",
-    "url": "durgapur_uttr.gov.bd"
-  },
-  {
-    "id": "840",
-    "upazilla_id": "11",
-    "name": "Amdatli",
-    "bn_name": "আমড়াতলী",
-    "url": "amdatli.gov.bd"
-  },
-  {
-    "id": "841",
-    "upazilla_id": "11",
-    "name": "Panchthubi",
-    "bn_name": "পাঁচথুবী",
-    "url": "panchthubi.gov.bd"
-  },
-  {
-    "id": "842",
-    "upazilla_id": "11",
-    "name": "Jgnnathpur",
-    "bn_name": "জগন্নাথপুর",
-    "url": "jgnnathpur_cumilla.gov.bd"
-  },
-  {
-    "id": "843",
-    "upazilla_id": "14",
-    "name": "Bijjpur",
-    "bn_name": "বিজয়পুর",
-    "url": "bijjpur.gov.bd"
-  },
-  {
-    "id": "844",
-    "upazilla_id": "14",
-    "name": "Choujara",
-    "bn_name": "চৌয়ারা",
-    "url": "choujara.gov.bd"
-  },
-  {
-    "id": "845",
-    "upazilla_id": "14",
-    "name": "Glijara",
-    "bn_name": "গলিয়ারা",
-    "url": "glijara.gov.bd"
-  },
-  {
-    "id": "846",
-    "upazilla_id": "14",
-    "name": "Barpada",
-    "bn_name": "বারপাড়া",
-    "url": "barpada_cumilla.gov.bd"
-  },
-  {
-    "id": "847",
-    "upazilla_id": "14",
-    "name": "Jodkann Pshchim",
-    "bn_name": "জোড়কানন পশ্চিম",
-    "url": "jodkann_pshchim.gov.bd"
-  },
-  {
-    "id": "848",
-    "upazilla_id": "14",
-    "name": "Jodkann Purb",
-    "bn_name": "জোড়কানন পূর্ব",
-    "url": "jodkann_purb.gov.bd"
-  },
-  {
     "id": "849",
     "upazilla_id": "6",
     "name": "Daudkandi Uttr",
@@ -6046,118 +5899,6 @@
     "name": "Doultpur",
     "bn_name": "দৌলতপুর",
     "url": "doultpur_daudkandi.gov.bd"
-  },
-  {
-    "id": "865",
-    "upazilla_id": "1",
-    "name": "Bdshalghr",
-    "bn_name": "বড়শালঘর",
-    "url": "bdshalghr.gov.bd"
-  },
-  {
-    "id": "866",
-    "upazilla_id": "1",
-    "name": "Iusuphpur",
-    "bn_name": "ইউসুফপুর",
-    "url": "iusuphpur.gov.bd"
-  },
-  {
-    "id": "867",
-    "upazilla_id": "1",
-    "name": "Rsulpur",
-    "bn_name": "রসুলপুর",
-    "url": "rsulpur_debidwar.gov.bd"
-  },
-  {
-    "id": "868",
-    "upazilla_id": "1",
-    "name": "Subil",
-    "bn_name": "সুবিল",
-    "url": "subil.gov.bd"
-  },
-  {
-    "id": "869",
-    "upazilla_id": "1",
-    "name": "Debidbar",
-    "bn_name": "দেবিদ্বার",
-    "url": "debidbar.gov.bd"
-  },
-  {
-    "id": "870",
-    "upazilla_id": "1",
-    "name": "Phtehabad",
-    "bn_name": "ফতেহাবাদ",
-    "url": "phtehabad.gov.bd"
-  },
-  {
-    "id": "871",
-    "upazilla_id": "1",
-    "name": "Elahabad",
-    "bn_name": "এলাহাবাদ",
-    "url": "elahabad.gov.bd"
-  },
-  {
-    "id": "872",
-    "upazilla_id": "1",
-    "name": "Japhrgnj",
-    "bn_name": "জাফরগঞ্জ",
-    "url": "japhrgnj.gov.bd"
-  },
-  {
-    "id": "873",
-    "upazilla_id": "1",
-    "name": "Gunaighr Uttr",
-    "bn_name": "গুনাইঘর উত্তর",
-    "url": "gunaighr_uttr.gov.bd"
-  },
-  {
-    "id": "874",
-    "upazilla_id": "1",
-    "name": "Gunaighr Dkshin",
-    "bn_name": "গুনাইঘর দক্ষিণ",
-    "url": "gunaighr_dkshin.gov.bd"
-  },
-  {
-    "id": "875",
-    "upazilla_id": "1",
-    "name": "Rajamehar",
-    "bn_name": "রাজামেহার",
-    "url": "rajamehar.gov.bd"
-  },
-  {
-    "id": "876",
-    "upazilla_id": "1",
-    "name": "Bhani",
-    "bn_name": "ভানী",
-    "url": "bhani.gov.bd"
-  },
-  {
-    "id": "877",
-    "upazilla_id": "1",
-    "name": "Dhamti",
-    "bn_name": "ধামতী",
-    "url": "dhamti.gov.bd"
-  },
-  {
-    "id": "878",
-    "upazilla_id": "1",
-    "name": "Sultanpur",
-    "bn_name": "সুলতানপুর",
-    "url": "sultanpur_debidwar.gov.bd"
-  },
-  {
-    "id": "879",
-    "upazilla_id": "1",
-    "name": "Brkamta",
-    "bn_name": "বরকামতা",
-    "url": "brkamta.gov.bd"
-  },
-  {
-    "id": "880",
-    "upazilla_id": "1",
-    "name": "Mohnpur",
-    "bn_name": "মোহনপুর",
-    "url": "mohnpur.gov.bd"
   },
   {
     "id": "881",
@@ -7735,62 +7476,6 @@
     "url": "brmachhdi.gov.bd"
   },
   {
-    "id": "1106",
-    "upazilla_id": "92",
-    "name": "Mhalchhdi",
-    "bn_name": "মহালছড়ি",
-    "url": "mhalchhdi.gov.bd"
-  },
-  {
-    "id": "1107",
-    "upazilla_id": "92",
-    "name": "Mubachhdi",
-    "bn_name": "মুবাছড়ি",
-    "url": "mubachhdi.gov.bd"
-  },
-  {
-    "id": "1108",
-    "upazilla_id": "92",
-    "name": "Kjajangghat",
-    "bn_name": "ক্যায়াংঘাট",
-    "url": "kjajangghat.gov.bd"
-  },
-  {
-    "id": "1109",
-    "upazilla_id": "92",
-    "name": "Maischhdi",
-    "bn_name": "মাইসছড়ি",
-    "url": "maischhdi.gov.bd"
-  },
-  {
-    "id": "1110",
-    "upazilla_id": "93",
-    "name": "Manikchhdi",
-    "bn_name": "মানিকছড়ি",
-    "url": "manikchhdi.gov.bd"
-  },
-  {
-    "id": "1111",
-    "upazilla_id": "93",
-    "name": "Batnatli",
-    "bn_name": "বাটনাতলী",
-    "url": "batnatli.gov.bd"
-  },
-  {
-    "id": "1112",
-    "upazilla_id": "93",
-    "name": "Jogjachhola",
-    "bn_name": "যোগ্যাছোলা",
-    "url": "jogjachhola.gov.bd"
-  },
-  {
-    "id": "1113",
-    "upazilla_id": "93",
-    "name": "Tinthri",
-    "bn_name": "তিনটহরী",
-    "url": "tinthri.gov.bd"
-  },
-  {
     "id": "1114",
     "upazilla_id": "95",
     "name": "Taindng",
@@ -7838,41 +7523,6 @@
     "name": "Amtli",
     "bn_name": "আমতলী",
     "url": "amtli.gov.bd"
-  },
-  {
-    "id": "1121",
-    "upazilla_id": "90",
-    "name": "Logang",
-    "bn_name": "লোগাং",
-    "url": "logang.gov.bd"
-  },
-  {
-    "id": "1122",
-    "upazilla_id": "90",
-    "name": "Chenggi",
-    "bn_name": "চেঙ্গী",
-    "url": "chenggi.gov.bd"
-  },
-  {
-    "id": "1123",
-    "upazilla_id": "90",
-    "name": "Panchhdi",
-    "bn_name": "পানছড়ি",
-    "url": "panchhdi.gov.bd"
-  },
-  {
-    "id": "1124",
-    "upazilla_id": "90",
-    "name": "Ltiban",
-    "bn_name": "লতিবান",
-    "url": "ltiban.gov.bd"
-  },
-  {
-    "id": "1125",
-    "upazilla_id": "90",
-    "name": "Ultachhdi",
-    "bn_name": "উল্টাছড়ি",
-    "url": "ultachhdi.gov.bd"
   },
   {
     "id": "1126",
@@ -12209,49 +11859,49 @@
   },
   {
     "id": "1745",
-    "upazilla_id": "248",
+    "upazilla_id": "362",
     "name": "Ulail",
     "bn_name": "উলাইল",
     "url": "ulail.gov.bd"
   },
   {
     "id": "1746",
-    "upazilla_id": "248",
+    "upazilla_id": "362",
     "name": "Teota",
     "bn_name": "তেওতা",
     "url": "teota.gov.bd"
   },
   {
     "id": "1747",
-    "upazilla_id": "248",
+    "upazilla_id": "362",
     "name": "Shibalj",
     "bn_name": "শিবালয়",
     "url": "shibalj.gov.bd"
   },
   {
     "id": "1748",
-    "upazilla_id": "248",
+    "upazilla_id": "362",
     "name": "Mhadebpur",
     "bn_name": "মহাদেবপুর",
     "url": "mhadebpur.gov.bd"
   },
   {
     "id": "1749",
-    "upazilla_id": "248",
+    "upazilla_id": "362",
     "name": "Aruja",
     "bn_name": "আরুয়া",
     "url": "aruja.gov.bd"
   },
   {
     "id": "1750",
-    "upazilla_id": "248",
+    "upazilla_id": "362",
     "name": "Uthli",
     "bn_name": "উথলী",
     "url": "uthli_shivalaya.gov.bd"
   },
   {
     "id": "1751",
-    "upazilla_id": "248",
+    "upazilla_id": "362",
     "name": "Shimulija",
     "bn_name": "শিমুলিয়া",
     "url": "shimulija_shivalaya.gov.bd"
@@ -12332,62 +11982,6 @@
     "name": "Chandhr",
     "bn_name": "চান্দহর",
     "url": "chandhr.gov.bd"
-  },
-  {
-    "id": "1763",
-    "upazilla_id": "242",
-    "name": "Tenggarchr",
-    "bn_name": "টেংগারচর",
-    "url": "tenggarchr.gov.bd"
-  },
-  {
-    "id": "1764",
-    "upazilla_id": "242",
-    "name": "Balujakandi",
-    "bn_name": "বালুয়াকান্দি",
-    "url": "balujakandi.gov.bd"
-  },
-  {
-    "id": "1765",
-    "upazilla_id": "242",
-    "name": "Bhberchr",
-    "bn_name": "ভবেরচর",
-    "url": "bhberchr.gov.bd"
-  },
-  {
-    "id": "1766",
-    "upazilla_id": "242",
-    "name": "Baushija",
-    "bn_name": "বাউশিয়া",
-    "url": "baushija.gov.bd"
-  },
-  {
-    "id": "1767",
-    "upazilla_id": "242",
-    "name": "Gjarija",
-    "bn_name": "গজারিয়া",
-    "url": "gjarija_gazaria.gov.bd"
-  },
-  {
-    "id": "1768",
-    "upazilla_id": "242",
-    "name": "Hosendi",
-    "bn_name": "হোসেন্দী",
-    "url": "hosendi_gazaria.gov.bd"
-  },
-  {
-    "id": "1769",
-    "upazilla_id": "242",
-    "name": "Imampur",
-    "bn_name": "ইমামপুর",
-    "url": "imampur.gov.bd"
-  },
-  {
-    "id": "1770",
-    "upazilla_id": "242",
-    "name": "Gujagachhija",
-    "bn_name": "গুয়াগাছিয়া",
-    "url": "gujagachhija.gov.bd"
   },
   {
     "id": "1771",
@@ -13630,28 +13224,28 @@
   },
   {
     "id": "1948",
-    "upazilla_id": "277",
+    "upazilla_id": "377",
     "name": "Doultdija",
     "bn_name": "দৌলতদিয়া",
     "url": "doultdija.gov.bd"
   },
   {
     "id": "1949",
-    "upazilla_id": "277",
+    "upazilla_id": "377",
     "name": "Debgram",
     "bn_name": "দেবগ্রাম",
     "url": "debgram.gov.bd"
   },
   {
     "id": "1950",
-    "upazilla_id": "277",
+    "upazilla_id": "377",
     "name": "Chhotbhakla",
     "bn_name": "ছোটভাকলা",
     "url": "chhotbhakla.gov.bd"
   },
   {
     "id": "1951",
-    "upazilla_id": "277",
+    "upazilla_id": "377",
     "name": "Ujanchr",
     "bn_name": "উজানচর",
     "url": "ujanchr_goalandaghat.gov.bd"
@@ -13704,76 +13298,6 @@
     "name": "Saorail",
     "bn_name": "সাওরাইল",
     "url": "saorail.gov.bd"
-  },
-  {
-    "id": "1959",
-    "upazilla_id": "378",
-    "name": "Habaspur",
-    "bn_name": "হাবাসপুর",
-    "url": "habaspur.gov.bd"
-  },
-  {
-    "id": "1960",
-    "upazilla_id": "378",
-    "name": "Bahadurpur",
-    "bn_name": "বাহাদুরপুর",
-    "url": "bahadurpur_pangsha.gov.bd"
-  },
-  {
-    "id": "1961",
-    "upazilla_id": "378",
-    "name": "Jshai Iunijn Patar Ostitb Nei",
-    "bn_name": "যশাই ইউনিয়ন (পাতার অস্তিত্ব নেই)",
-    "url": "jshai_iunijn_patar_ostitb_nei.gov.bd"
-  },
-  {
-    "id": "1962",
-    "upazilla_id": "378",
-    "name": "Babupada",
-    "bn_name": "বাবুপাড়া",
-    "url": "babupada.gov.bd"
-  },
-  {
-    "id": "1963",
-    "upazilla_id": "378",
-    "name": "Machhpada",
-    "bn_name": "মাছপাড়া",
-    "url": "machhpada.gov.bd"
-  },
-  {
-    "id": "1964",
-    "upazilla_id": "378",
-    "name": "Klimhr Iunijn Patar Ostitb Nei",
-    "bn_name": "কলিমহর ইউনিয়ন (পাতার অস্তিত্ব নেই)",
-    "url": "klimhr_iunijn_patar_ostitb_nei.gov.bd"
-  },
-  {
-    "id": "1965",
-    "upazilla_id": "378",
-    "name": "Srisha",
-    "bn_name": "সরিষা",
-    "url": "srisha.gov.bd"
-  },
-  {
-    "id": "1966",
-    "upazilla_id": "378",
-    "name": "Ksbamajail Iunijn Patar Ostitb Nei",
-    "bn_name": "কসবামাজাইল ইউনিয়ন (পাতার অস্তিত্ব নেই)",
-    "url": "ksbamajail_iunijn_patar_ostitb_nei.gov.bd"
-  },
-  {
-    "id": "1967",
-    "upazilla_id": "378",
-    "name": "Mourat",
-    "bn_name": "মৌরাট",
-    "url": "mourat.gov.bd"
-  },
-  {
-    "id": "1968",
-    "upazilla_id": "378",
-    "name": "Patta",
-    "bn_name": "পাট্টা",
-    "url": "patta.gov.bd"
   },
   {
     "id": "1969",
@@ -17081,42 +16605,42 @@
   },
   {
     "id": "2441",
-    "upazilla_id": "320",
+    "upazilla_id": "208",
     "name": "Gajirhat",
     "bn_name": "গাজীরহাট",
     "url": "gajirhat.gov.bd"
   },
   {
     "id": "2442",
-    "upazilla_id": "320",
+    "upazilla_id": "208",
     "name": "Barakpur",
     "bn_name": "বারাকপুর",
     "url": "barakpur.gov.bd"
   },
   {
     "id": "2443",
-    "upazilla_id": "320",
+    "upazilla_id": "208",
     "name": "Dighlija",
     "bn_name": "দিঘলিয়া",
     "url": "dighlija.gov.bd"
   },
   {
     "id": "2444",
-    "upazilla_id": "320",
+    "upazilla_id": "208",
     "name": "Senhati",
     "bn_name": "সেনহাটি",
     "url": "senhati.gov.bd"
   },
   {
     "id": "2445",
-    "upazilla_id": "320",
+    "upazilla_id": "208",
     "name": "Adngghata",
     "bn_name": "আড়ংঘাটা",
     "url": "adngghata.gov.bd"
   },
   {
     "id": "2446",
-    "upazilla_id": "320",
+    "upazilla_id": "208",
     "name": "Jogipol",
     "bn_name": "যোগীপোল",
     "url": "jogipol.gov.bd"
@@ -19880,76 +19404,6 @@
     "url": "tanggab.gov.bd"
   },
   {
-    "id": "2841",
-    "upazilla_id": "470",
-    "name": "Milakanda",
-    "bn_name": "মইলাকান্দা",
-    "url": "milakanda.gov.bd"
-  },
-  {
-    "id": "2842",
-    "upazilla_id": "470",
-    "name": "Gouripur",
-    "bn_name": "গৌরীপুর",
-    "url": "gouripur_gauripur.gov.bd"
-  },
-  {
-    "id": "2843",
-    "upazilla_id": "470",
-    "name": "Ochintpur",
-    "bn_name": "অচিন্তপুর",
-    "url": "ochintpur.gov.bd"
-  },
-  {
-    "id": "2844",
-    "upazilla_id": "470",
-    "name": "Maoha",
-    "bn_name": "মাওহা",
-    "url": "maoha.gov.bd"
-  },
-  {
-    "id": "2845",
-    "upazilla_id": "470",
-    "name": "Shnati",
-    "bn_name": "সহনাটি",
-    "url": "shnati.gov.bd"
-  },
-  {
-    "id": "2846",
-    "upazilla_id": "470",
-    "name": "Bokaingr",
-    "bn_name": "বোকাইনগর",
-    "url": "bokaingr.gov.bd"
-  },
-  {
-    "id": "2847",
-    "upazilla_id": "470",
-    "name": "Ramgopalpur",
-    "bn_name": "রামগোপালপুর",
-    "url": "ramgopalpur.gov.bd"
-  },
-  {
-    "id": "2848",
-    "upazilla_id": "470",
-    "name": "Douhakhla",
-    "bn_name": "ডৌহাখলা",
-    "url": "douhakhla.gov.bd"
-  },
-  {
-    "id": "2849",
-    "upazilla_id": "470",
-    "name": "Bhangnamari",
-    "bn_name": "ভাংনামারী",
-    "url": "bhangnamari.gov.bd"
-  },
-  {
-    "id": "2850",
-    "upazilla_id": "470",
-    "name": "Sidhla",
-    "bn_name": "সিধলা",
-    "url": "sidhla.gov.bd"
-  },
-  {
     "id": "2851",
     "upazilla_id": "469",
     "name": "Bhubnkuda",
@@ -20032,153 +19486,6 @@
     "name": "Sbdeshi",
     "bn_name": "স্বদেশী",
     "url": "sbdeshi.gov.bd"
-  },
-  {
-    "id": "2863",
-    "upazilla_id": "472",
-    "name": "Atharbadi",
-    "bn_name": "আঠারবাড়ী",
-    "url": "atharbadi.gov.bd"
-  },
-  {
-    "id": "2864",
-    "upazilla_id": "472",
-    "name": "Ishbrgnj",
-    "bn_name": "ঈশ্বরগঞ্জ",
-    "url": "ishbrgnj.gov.bd"
-  },
-  {
-    "id": "2865",
-    "upazilla_id": "472",
-    "name": "Uchakhila",
-    "bn_name": "উচাখিলা",
-    "url": "uchakhila.gov.bd"
-  },
-  {
-    "id": "2866",
-    "upazilla_id": "472",
-    "name": "Jatija",
-    "bn_name": "জাটিয়া",
-    "url": "jatija.gov.bd"
-  },
-  {
-    "id": "2867",
-    "upazilla_id": "472",
-    "name": "Tarundija",
-    "bn_name": "তারুন্দিয়া",
-    "url": "tarundija.gov.bd"
-  },
-  {
-    "id": "2868",
-    "upazilla_id": "472",
-    "name": "Bdhit",
-    "bn_name": "বড়হিত",
-    "url": "bdhit.gov.bd"
-  },
-  {
-    "id": "2869",
-    "upazilla_id": "472",
-    "name": "Mgtula",
-    "bn_name": "মগটুলা",
-    "url": "mgtula.gov.bd"
-  },
-  {
-    "id": "2870",
-    "upazilla_id": "472",
-    "name": "Maijbag",
-    "bn_name": "মাইজবাগ",
-    "url": "maijbag.gov.bd"
-  },
-  {
-    "id": "2871",
-    "upazilla_id": "472",
-    "name": "Rajibpur",
-    "bn_name": "রাজিবপুর",
-    "url": "rajibpur.gov.bd"
-  },
-  {
-    "id": "2872",
-    "upazilla_id": "472",
-    "name": "Srisha",
-    "bn_name": "সরিষা",
-    "url": "srisha_ishwarganj.gov.bd"
-  },
-  {
-    "id": "2873",
-    "upazilla_id": "472",
-    "name": "Sohagi",
-    "bn_name": "সোহাগী",
-    "url": "sohagi.gov.bd"
-  },
-  {
-    "id": "2874",
-    "upazilla_id": "465",
-    "name": "Dulla",
-    "bn_name": "দুল্লা",
-    "url": "dulla.gov.bd"
-  },
-  {
-    "id": "2875",
-    "upazilla_id": "465",
-    "name": "Bdgram",
-    "bn_name": "বড়গ্রাম",
-    "url": "bdgram.gov.bd"
-  },
-  {
-    "id": "2876",
-    "upazilla_id": "465",
-    "name": "Tarati",
-    "bn_name": "তারাটি",
-    "url": "tarati.gov.bd"
-  },
-  {
-    "id": "2877",
-    "upazilla_id": "465",
-    "name": "Kumargata",
-    "bn_name": "কুমারগাতা",
-    "url": "kumargata.gov.bd"
-  },
-  {
-    "id": "2878",
-    "upazilla_id": "465",
-    "name": "Banshati",
-    "bn_name": "বাঁশাটি",
-    "url": "banshati.gov.bd"
-  },
-  {
-    "id": "2879",
-    "upazilla_id": "465",
-    "name": "Mankon",
-    "bn_name": "মানকোন",
-    "url": "mankon.gov.bd"
-  },
-  {
-    "id": "2880",
-    "upazilla_id": "465",
-    "name": "Ghoga",
-    "bn_name": "ঘোগা",
-    "url": "ghoga.gov.bd"
-  },
-  {
-    "id": "2881",
-    "upazilla_id": "465",
-    "name": "Daogano",
-    "bn_name": "দাওগাঁও",
-    "url": "daogano.gov.bd"
-  },
-  {
-    "id": "2882",
-    "upazilla_id": "465",
-    "name": "Kashimpur",
-    "bn_name": "কাশিমপুর",
-    "url": "kashimpur_muktagachha.gov.bd"
-  },
-  {
-    "id": "2883",
-    "upazilla_id": "465",
-    "name": "Kherujajani",
-    "bn_name": "খেরুয়াজানী",
-    "url": "kherujajani.gov.bd"
   },
   {
     "id": "2884",
@@ -20424,76 +19731,6 @@
     "name": "Bola",
     "bn_name": "বওলা",
     "url": "bola.gov.bd"
-  },
-  {
-    "id": "2919",
-    "upazilla_id": "474",
-    "name": "Banihala",
-    "bn_name": "বানিহালা",
-    "url": "banihala.gov.bd"
-  },
-  {
-    "id": "2920",
-    "upazilla_id": "474",
-    "name": "Kakni",
-    "bn_name": "কাকনী",
-    "url": "kakni.gov.bd"
-  },
-  {
-    "id": "2921",
-    "upazilla_id": "474",
-    "name": "Tarakanda",
-    "bn_name": "তারাকান্দা",
-    "url": "tarakanda.gov.bd"
-  },
-  {
-    "id": "2922",
-    "upazilla_id": "474",
-    "name": "Galagano",
-    "bn_name": "গালাগাঁও",
-    "url": "galagano.gov.bd"
-  },
-  {
-    "id": "2923",
-    "upazilla_id": "474",
-    "name": "Balikha",
-    "bn_name": "বালিখা",
-    "url": "balikha.gov.bd"
-  },
-  {
-    "id": "2924",
-    "upazilla_id": "474",
-    "name": "Kamargano",
-    "bn_name": "কামারগাঁও",
-    "url": "kamargano.gov.bd"
-  },
-  {
-    "id": "2925",
-    "upazilla_id": "474",
-    "name": "Kamarija",
-    "bn_name": "কামারিয়া",
-    "url": "kamarija.gov.bd"
-  },
-  {
-    "id": "2926",
-    "upazilla_id": "474",
-    "name": "Dhakuja",
-    "bn_name": "ঢাকুয়া",
-    "url": "dhakuja.gov.bd"
-  },
-  {
-    "id": "2927",
-    "upazilla_id": "474",
-    "name": "Rampur",
-    "bn_name": "রামপুর",
-    "url": "rampur_tara.gov.bd"
-  },
-  {
-    "id": "2928",
-    "upazilla_id": "474",
-    "name": "Biska",
-    "bn_name": "বিসকা",
-    "url": "biska.gov.bd"
   },
   {
     "id": "2929",
@@ -20921,55 +20158,6 @@
     "name": "Kaitail",
     "bn_name": "কাইটাইল",
     "url": "kaitail.gov.bd"
-  },
-  {
-    "id": "2990",
-    "upazilla_id": "489",
-    "name": "Bdkashija Birampur",
-    "bn_name": "বড়কাশিয়া বিরামপুর",
-    "url": "bdkashija_birampur.gov.bd"
-  },
-  {
-    "id": "2991",
-    "upazilla_id": "489",
-    "name": "Bdtli Banijahari",
-    "bn_name": "বড়তলী বানিয়াহারী",
-    "url": "bdtli_banijahari.gov.bd"
-  },
-  {
-    "id": "2992",
-    "upazilla_id": "489",
-    "name": "Tetulija",
-    "bn_name": "তেতুলিয়া",
-    "url": "tetulija_mohanganj.gov.bd"
-  },
-  {
-    "id": "2993",
-    "upazilla_id": "489",
-    "name": "Maghan Sijadhar",
-    "bn_name": "মাঘান সিয়াধার",
-    "url": "maghan_sijadhar.gov.bd"
-  },
-  {
-    "id": "2994",
-    "upazilla_id": "489",
-    "name": "Smaj Shildeo",
-    "bn_name": "সমাজ সহিলদেও",
-    "url": "smaj_shildeo.gov.bd"
-  },
-  {
-    "id": "2995",
-    "upazilla_id": "489",
-    "name": "Sujair",
-    "bn_name": "সুয়াইর",
-    "url": "sujair.gov.bd"
-  },
-  {
-    "id": "2996",
-    "upazilla_id": "489",
-    "name": "Gaglajur",
-    "bn_name": "গাগলাজুর",
-    "url": "gaglajur.gov.bd"
   },
   {
     "id": "2997",
@@ -21441,274 +20629,43 @@
     "url": "santahar.gov.bd"
   },
   {
-    "id": "3064",
-    "upazilla_id": "123",
-    "name": "Erulija",
-    "bn_name": "এরুলিয়া",
-    "url": "erulija.gov.bd"
-  },
-  {
-    "id": "3065",
-    "upazilla_id": "123",
-    "name": "Phanpor",
-    "bn_name": "ফাঁপোর",
-    "url": "phanpor.gov.bd"
-  },
-  {
-    "id": "3066",
-    "upazilla_id": "123",
-    "name": "Sabgram",
-    "bn_name": "সাবগ্রাম",
-    "url": "sabgram.gov.bd"
-  },
-  {
-    "id": "3067",
-    "upazilla_id": "123",
-    "name": "Nishindara",
-    "bn_name": "নিশিন্দারা",
-    "url": "nishindara.gov.bd"
-  },
-  {
-    "id": "3068",
-    "upazilla_id": "123",
-    "name": "Rajapur",
-    "bn_name": "রাজাপুর",
-    "url": "rajapur_bogura.gov.bd"
-  },
-  {
-    "id": "3069",
-    "upazilla_id": "123",
-    "name": "Shakharija",
-    "bn_name": "শাখারিয়া",
-    "url": "shakharija.gov.bd"
-  },
-  {
-    "id": "3070",
-    "upazilla_id": "123",
-    "name": "Shekherkola",
-    "bn_name": "শেখেরকোলা",
-    "url": "shekherkola.gov.bd"
-  },
-  {
-    "id": "3071",
-    "upazilla_id": "123",
-    "name": "Gokul",
-    "bn_name": "গোকুল",
-    "url": "gokul.gov.bd"
-  },
-  {
-    "id": "3072",
-    "upazilla_id": "123",
-    "name": "Nungola",
-    "bn_name": "নুনগোলা",
-    "url": "nungola.gov.bd"
-  },
-  {
-    "id": "3073",
-    "upazilla_id": "123",
-    "name": "Lahidipada",
-    "bn_name": "লাহিড়ীপাড়া",
-    "url": "lahidipada.gov.bd"
-  },
-  {
-    "id": "3074",
-    "upazilla_id": "123",
-    "name": "Namuja",
-    "bn_name": "নামুজা",
-    "url": "namuja.gov.bd"
-  },
-  {
-    "id": "3075",
-    "upazilla_id": "123",
-    "name": "Shibgnj",
-    "bn_name": "শিবগঞ্জ",
-    "url": "shibgnj.gov.bd"
-  },
-  {
-    "id": "3076",
-    "upazilla_id": "123",
-    "name": "Bihar",
-    "bn_name": "বিহার",
-    "url": "bihar.gov.bd"
-  },
-  {
-    "id": "3077",
-    "upazilla_id": "123",
-    "name": "Rajngr",
-    "bn_name": "রায়নগর",
-    "url": "rajngr_bogura.gov.bd"
-  },
-  {
-    "id": "3078",
-    "upazilla_id": "123",
-    "name": "Budignj",
-    "bn_name": "বুড়িগঞ্জ",
-    "url": "budignj.gov.bd"
-  },
-  {
-    "id": "3079",
-    "upazilla_id": "123",
-    "name": "Majhihtt",
-    "bn_name": "মাঝিহট্ট",
-    "url": "majhihtt.gov.bd"
-  },
-  {
-    "id": "3080",
-    "upazilla_id": "123",
-    "name": "Pirb",
-    "bn_name": "পিরব",
-    "url": "pirb.gov.bd"
-  },
-  {
-    "id": "3081",
-    "upazilla_id": "123",
-    "name": "Atmul",
-    "bn_name": "আটমূল",
-    "url": "atmul.gov.bd"
-  },
-  {
-    "id": "3082",
-    "upazilla_id": "123",
-    "name": "Kichk",
-    "bn_name": "কিচক",
-    "url": "kichk.gov.bd"
-  },
-  {
-    "id": "3083",
-    "upazilla_id": "123",
-    "name": "Mjdanhatta",
-    "bn_name": "ময়দানহাট্টা",
-    "url": "mjdanhatta.gov.bd"
-  },
-  {
-    "id": "3084",
-    "upazilla_id": "123",
-    "name": "Deuli",
-    "bn_name": "দেউলি",
-    "url": "deuli_bogura.gov.bd"
-  },
-  {
-    "id": "3085",
-    "upazilla_id": "123",
-    "name": "Mokamtla",
-    "bn_name": "মোকামতলা",
-    "url": "mokamtla.gov.bd"
-  },
-  {
-    "id": "3086",
-    "upazilla_id": "123",
-    "name": "Soijdpur",
-    "bn_name": "সৈয়দপুর",
-    "url": "soijdpur_bogura.gov.bd"
-  },
-  {
-    "id": "3087",
-    "upazilla_id": "130",
-    "name": "Nimgachhi",
-    "bn_name": "নিমগাছি",
-    "url": "nimgachhi.gov.bd"
-  },
-  {
-    "id": "3088",
-    "upazilla_id": "130",
-    "name": "Kaler Pada",
-    "bn_name": "কালের পাড়া",
-    "url": "kaler_pada.gov.bd"
-  },
-  {
-    "id": "3089",
-    "upazilla_id": "130",
-    "name": "Chikashi",
-    "bn_name": "চিকাশী",
-    "url": "chikashi.gov.bd"
-  },
-  {
-    "id": "3090",
-    "upazilla_id": "130",
-    "name": "Gosaibadi",
-    "bn_name": "গোসাইবাড়ী",
-    "url": "gosaibadi.gov.bd"
-  },
-  {
-    "id": "3091",
-    "upazilla_id": "130",
-    "name": "Bhandarbadi",
-    "bn_name": "ভান্ডারবাড়ী",
-    "url": "bhandarbadi.gov.bd"
-  },
-  {
-    "id": "3092",
-    "upazilla_id": "130",
-    "name": "Dhunt",
-    "bn_name": "ধুনট",
-    "url": "dhunt.gov.bd"
-  },
-  {
-    "id": "3093",
-    "upazilla_id": "130",
-    "name": "Elanggi",
-    "bn_name": "এলাঙ্গী",
-    "url": "elanggi_dhunat.gov.bd"
-  },
-  {
-    "id": "3094",
-    "upazilla_id": "130",
-    "name": "Choukibadi",
-    "bn_name": "চৌকিবাড়ী",
-    "url": "choukibadi.gov.bd"
-  },
-  {
-    "id": "3095",
-    "upazilla_id": "130",
-    "name": "Mthurapur",
-    "bn_name": "মথুরাপুর",
-    "url": "mthurapur_dhunat.gov.bd"
-  },
-  {
-    "id": "3096",
-    "upazilla_id": "130",
-    "name": "Gopalngr",
-    "bn_name": "গোপালনগর",
-    "url": "gopalngr.gov.bd"
-  },
-  {
     "id": "3097",
-    "upazilla_id": "356",
+    "upazilla_id": "126",
     "name": "Jijangr",
     "bn_name": "জিয়ানগর",
     "url": "jijangr.gov.bd"
   },
   {
     "id": "3098",
-    "upazilla_id": "356",
+    "upazilla_id": "126",
     "name": "Chamrul",
     "bn_name": "চামরুল",
     "url": "chamrul.gov.bd"
   },
   {
     "id": "3099",
-    "upazilla_id": "356",
+    "upazilla_id": "126",
     "name": "Dupchanchija",
     "bn_name": "দুপচাঁচিয়া",
     "url": "dupchanchija.gov.bd"
   },
   {
     "id": "3100",
-    "upazilla_id": "356",
+    "upazilla_id": "126",
     "name": "Gunahar",
     "bn_name": "গুনাহার",
     "url": "gunahar.gov.bd"
   },
   {
     "id": "3101",
-    "upazilla_id": "356",
+    "upazilla_id": "126",
     "name": "Gobindpur",
     "bn_name": "গোবিন্দপুর",
     "url": "gobindpur_dhupchanchia.gov.bd"
   },
   {
     "id": "3102",
-    "upazilla_id": "356",
+    "upazilla_id": "126",
     "name": "Taloda",
     "bn_name": "তালোড়া",
     "url": "taloda.gov.bd"
@@ -21855,119 +20812,119 @@
   },
   {
     "id": "3123",
-    "upazilla_id": "355",
+    "upazilla_id": "128",
     "name": "Budil",
     "bn_name": "বুড়ইল",
     "url": "budil.gov.bd"
   },
   {
     "id": "3124",
-    "upazilla_id": "355",
+    "upazilla_id": "128",
     "name": "Nndigram",
     "bn_name": "নন্দিগ্রাম",
     "url": "nndigram.gov.bd"
   },
   {
     "id": "3125",
-    "upazilla_id": "355",
+    "upazilla_id": "128",
     "name": "Bhatra",
     "bn_name": "ভাটরা",
     "url": "bhatra_nandigram.gov.bd"
   },
   {
     "id": "3126",
-    "upazilla_id": "355",
+    "upazilla_id": "128",
     "name": "Thalta Majhgram",
     "bn_name": "থালতা মাঝগ্রাম",
     "url": "thalta_majhgram.gov.bd"
   },
   {
     "id": "3127",
-    "upazilla_id": "355",
+    "upazilla_id": "128",
     "name": "Bhatgram",
     "bn_name": "ভাটগ্রাম",
     "url": "bhatgram_nandigram.gov.bd"
   },
   {
     "id": "3128",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Chalujabadi",
     "bn_name": "চালুয়াবাড়ী",
     "url": "chalujabadi.gov.bd"
   },
   {
     "id": "3129",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Hatsherpur",
     "bn_name": "হাটশেরপুর",
     "url": "hatsherpur.gov.bd"
   },
   {
     "id": "3130",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Kajla",
     "bn_name": "কাজলা",
     "url": "kajla.gov.bd"
   },
   {
     "id": "3131",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Sarijakandi Sdr",
     "bn_name": "সারিয়াকান্দি সদর",
     "url": "sarijakandi_sdr.gov.bd"
   },
   {
     "id": "3132",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Narchi",
     "bn_name": "নারচী",
     "url": "narchi.gov.bd"
   },
   {
     "id": "3133",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Phulbadi",
     "bn_name": "ফুলবাড়ী",
     "url": "phulbadi_sariakandi.gov.bd"
   },
   {
     "id": "3134",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Krnibadi",
     "bn_name": "কর্ণিবাড়ী",
     "url": "krnibadi.gov.bd"
   },
   {
     "id": "3135",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Kutubpur",
     "bn_name": "কুতুবপুর",
     "url": "kutubpur_sariakandi.gov.bd"
   },
   {
     "id": "3136",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Bhelabadi",
     "bn_name": "ভেলাবাড়ী",
     "url": "bhelabadi_sariakandi.gov.bd"
   },
   {
     "id": "3137",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Chndnbaisha",
     "bn_name": "চন্দনবাইশা",
     "url": "chndnbaisha.gov.bd"
   },
   {
     "id": "3138",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Kamalpur",
     "bn_name": "কামালপুর",
     "url": "kamalpur_sariakandi.gov.bd"
   },
   {
     "id": "3139",
-    "upazilla_id": "359",
+    "upazilla_id": "124",
     "name": "Bohail",
     "bn_name": "বোহাইল",
     "url": "bohail.gov.bd"
@@ -22195,55 +21152,6 @@
     "name": "Shahbndegi",
     "bn_name": "শাহবন্দেগী",
     "url": "shahbndegi.gov.bd"
-  },
-  {
-    "id": "3172",
-    "upazilla_id": "129",
-    "name": "Sonatla",
-    "bn_name": "সোনাতলা",
-    "url": "sonatla.gov.bd"
-  },
-  {
-    "id": "3173",
-    "upazilla_id": "129",
-    "name": "Baluja",
-    "bn_name": "বালুয়া",
-    "url": "baluja.gov.bd"
-  },
-  {
-    "id": "3174",
-    "upazilla_id": "129",
-    "name": "Digdaid",
-    "bn_name": "দিগদাইড়",
-    "url": "digdaid_sonatola.gov.bd"
-  },
-  {
-    "id": "3175",
-    "upazilla_id": "129",
-    "name": "Jodgachha",
-    "bn_name": "জোড়গাছা",
-    "url": "jodgachha.gov.bd"
-  },
-  {
-    "id": "3176",
-    "upazilla_id": "129",
-    "name": "Mdhupur",
-    "bn_name": "মধুপুর",
-    "url": "mdhupur_sonatola.gov.bd"
-  },
-  {
-    "id": "3177",
-    "upazilla_id": "129",
-    "name": "Tekani Chukaingr",
-    "bn_name": "তেকানী চুকাইনগর",
-    "url": "tekani_chukaingr.gov.bd"
-  },
-  {
-    "id": "3178",
-    "upazilla_id": "129",
-    "name": "Pakulja",
-    "bn_name": "পাকুল্যা",
-    "url": "pakulja.gov.bd"
   },
   {
     "id": "3179",
@@ -23742,41 +22650,6 @@
     "name": "Ramannd Khajura",
     "bn_name": "রামানন্দ খাজুরা",
     "url": "ramannd_khajura.gov.bd"
-  },
-  {
-    "id": "3393",
-    "upazilla_id": "337",
-    "name": "Majpada",
-    "bn_name": "মাজপাড়া",
-    "url": "majpada.gov.bd"
-  },
-  {
-    "id": "3394",
-    "upazilla_id": "337",
-    "name": "Chandbha",
-    "bn_name": "চাঁদভা",
-    "url": "chandbha.gov.bd"
-  },
-  {
-    "id": "3395",
-    "upazilla_id": "337",
-    "name": "Debottr",
-    "bn_name": "দেবোত্তর",
-    "url": "debottr.gov.bd"
-  },
-  {
-    "id": "3396",
-    "upazilla_id": "337",
-    "name": "Ekdnt",
-    "bn_name": "একদন্ত",
-    "url": "ekdnt.gov.bd"
-  },
-  {
-    "id": "3397",
-    "upazilla_id": "337",
-    "name": "Lkshmipur",
-    "bn_name": "লক্ষ্মীপুর",
-    "url": "lkshmipur_atgharia.gov.bd"
   },
   {
     "id": "3398",
@@ -26670,55 +25543,6 @@
     "url": "hrinathpur_palashbari.gov.bd"
   },
   {
-    "id": "3811",
-    "upazilla_id": "400",
-    "name": "Knchipada",
-    "bn_name": "কঞ্চিপাড়া",
-    "url": "knchipada.gov.bd"
-  },
-  {
-    "id": "3812",
-    "upazilla_id": "400",
-    "name": "Udija",
-    "bn_name": "উড়িয়া",
-    "url": "udija.gov.bd"
-  },
-  {
-    "id": "3813",
-    "upazilla_id": "400",
-    "name": "Udakhali",
-    "bn_name": "উদাখালী",
-    "url": "udakhali.gov.bd"
-  },
-  {
-    "id": "3814",
-    "upazilla_id": "400",
-    "name": "Gjarija",
-    "bn_name": "গজারিয়া",
-    "url": "gjarija_phulchhari.gov.bd"
-  },
-  {
-    "id": "3815",
-    "upazilla_id": "400",
-    "name": "Phulchhdi",
-    "bn_name": "ফুলছড়ি",
-    "url": "phulchhdi.gov.bd"
-  },
-  {
-    "id": "3816",
-    "upazilla_id": "400",
-    "name": "Erendabadi",
-    "bn_name": "এরেন্ডাবাড়ী",
-    "url": "erendabadi.gov.bd"
-  },
-  {
-    "id": "3817",
-    "upazilla_id": "400",
-    "name": "Phjlupur",
-    "bn_name": "ফজলুপুর",
-    "url": "phjlupur.gov.bd"
-  },
-  {
     "id": "3818",
     "upazilla_id": "428",
     "name": "Rsulpur",
@@ -27347,48 +26171,6 @@
     "name": "Njimkhann",
     "bn_name": "নজিমখাঁন",
     "url": "njimkhann.gov.bd"
-  },
-  {
-    "id": "3908",
-    "upazilla_id": "455",
-    "name": "Roumari",
-    "bn_name": "রৌমারী",
-    "url": "roumari.gov.bd"
-  },
-  {
-    "id": "3909",
-    "upazilla_id": "455",
-    "name": "Jadur Chr",
-    "bn_name": "যাদুর চর",
-    "url": "jadur_chr.gov.bd"
-  },
-  {
-    "id": "3910",
-    "upazilla_id": "455",
-    "name": "Shoulmari",
-    "bn_name": "শৌলমারী",
-    "url": "shoulmari.gov.bd"
-  },
-  {
-    "id": "3911",
-    "upazilla_id": "455",
-    "name": "Datbhangga",
-    "bn_name": "দাতভাঙ্গা",
-    "url": "datbhangga.gov.bd"
-  },
-  {
-    "id": "3912",
-    "upazilla_id": "455",
-    "name": "Bndbed",
-    "bn_name": "বন্দবেড়",
-    "url": "bndbed.gov.bd"
-  },
-  {
-    "id": "3913",
-    "upazilla_id": "455",
-    "name": "Chr Shoulmari",
-    "bn_name": "চর শৌলমারী",
-    "url": "chr_shoulmari.gov.bd"
   },
   {
     "id": "3914",
@@ -28827,70 +27609,70 @@
   },
   {
     "id": "4119",
-    "upazilla_id": "418",
+    "upazilla_id": "441",
     "name": "Betgadi",
     "bn_name": "বেতগাড়ী",
     "url": "betgadi.gov.bd"
   },
   {
     "id": "4120",
-    "upazilla_id": "418",
+    "upazilla_id": "441",
     "name": "Khleja",
     "bn_name": "খলেয়া",
     "url": "khleja.gov.bd"
   },
   {
     "id": "4121",
-    "upazilla_id": "418",
+    "upazilla_id": "441",
     "name": "Bdbil",
     "bn_name": "বড়বিল",
     "url": "bdbil.gov.bd"
   },
   {
     "id": "4122",
-    "upazilla_id": "418",
+    "upazilla_id": "441",
     "name": "Kolkond",
     "bn_name": "কোলকোন্দ",
     "url": "kolkond.gov.bd"
   },
   {
     "id": "4123",
-    "upazilla_id": "418",
+    "upazilla_id": "441",
     "name": "Lkshitari",
     "bn_name": "লক্ষীটারী",
     "url": "lkshitari.gov.bd"
   },
   {
     "id": "4124",
-    "upazilla_id": "418",
+    "upazilla_id": "441",
     "name": "Gnggachda",
     "bn_name": "গংগাচড়া",
     "url": "gnggachda.gov.bd"
   },
   {
     "id": "4125",
-    "upazilla_id": "418",
+    "upazilla_id": "441",
     "name": "Gjghnta",
     "bn_name": "গজঘন্টা",
     "url": "gjghnta.gov.bd"
   },
   {
     "id": "4126",
-    "upazilla_id": "418",
+    "upazilla_id": "441",
     "name": "Mrneja",
     "bn_name": "মর্ণেয়া",
     "url": "mrneja.gov.bd"
   },
   {
     "id": "4127",
-    "upazilla_id": "418",
+    "upazilla_id": "441",
     "name": "Almbiditr",
     "bn_name": "আলমবিদিতর",
     "url": "almbiditr.gov.bd"
   },
   {
     "id": "4128",
-    "upazilla_id": "418",
+    "upazilla_id": "441",
     "name": "Nohali",
     "bn_name": "নোহালী",
     "url": "nohali.gov.bd"
@@ -29744,105 +28526,105 @@
   },
   {
     "id": "4250",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Banijachng Uttr Purb",
     "bn_name": "বানিয়াচং উত্তর পূর্ব",
     "url": "banijachng_uttr_purb.gov.bd"
   },
   {
     "id": "4251",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Banijachng Uttr Pshchim",
     "bn_name": "বানিয়াচং উত্তর পশ্চিম",
     "url": "banijachng_uttr_pshchim.gov.bd"
   },
   {
     "id": "4252",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Banijachng Dkshin Purb",
     "bn_name": "বানিয়াচং দক্ষিণ পূর্ব",
     "url": "banijachng_dkshin_purb.gov.bd"
   },
   {
     "id": "4253",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Banijachng Dkshin Pshchim",
     "bn_name": "বানিয়াচং দক্ষিণ পশ্চিম",
     "url": "banijachng_dkshin_pshchim.gov.bd"
   },
   {
     "id": "4254",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Doultpur",
     "bn_name": "দৌলতপুর",
     "url": "doultpur_baniyachong.gov.bd"
   },
   {
     "id": "4255",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Kagapasha",
     "bn_name": "কাগাপাশা",
     "url": "kagapasha.gov.bd"
   },
   {
     "id": "4256",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Bdiudi",
     "bn_name": "বড়ইউড়ি",
     "url": "bdiudi.gov.bd"
   },
   {
     "id": "4257",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Khagauda",
     "bn_name": "খাগাউড়া",
     "url": "khagauda.gov.bd"
   },
   {
     "id": "4258",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Pukda",
     "bn_name": "পুকড়া",
     "url": "pukda.gov.bd"
   },
   {
     "id": "4259",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Subidpur",
     "bn_name": "সুবিদপুর",
     "url": "subidpur_baniyachong.gov.bd"
   },
   {
     "id": "4260",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Mkrmpur",
     "bn_name": "মক্রমপুর",
     "url": "mkrmpur.gov.bd"
   },
   {
     "id": "4261",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Sujatpur",
     "bn_name": "সুজাতপুর",
     "url": "sujatpur.gov.bd"
   },
   {
     "id": "4262",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Mndri",
     "bn_name": "মন্দরী",
     "url": "mndri.gov.bd"
   },
   {
     "id": "4263",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Muradpur",
     "bn_name": "মুরাদপুর",
     "url": "muradpur_baniyachong.gov.bd"
   },
   {
     "id": "4264",
-    "upazilla_id": "465",
+    "upazilla_id": "295",
     "name": "Poilarkandi",
     "bn_name": "পৈলারকান্দি",
     "url": "poilarkandi.gov.bd"
@@ -30182,27 +28964,6 @@
     "name": "Paniumda",
     "bn_name": "পানিউমদা",
     "url": "paniumda.gov.bd"
-  },
-  {
-    "id": "4313",
-    "upazilla_id": "467",
-    "name": "Nurpur",
-    "bn_name": "নুরপুর",
-    "url": "nurpur.gov.bd"
-  },
-  {
-    "id": "4314",
-    "upazilla_id": "467",
-    "name": "Shajestagnj",
-    "bn_name": "শায়েস্তাগঞ্জ",
-    "url": "shajestagnj.gov.bd"
-  },
-  {
-    "id": "4315",
-    "upazilla_id": "467",
-    "name": "Brahmndura",
-    "bn_name": "ব্রাহ্মণডুরা",
-    "url": "brahmndura.gov.bd"
   },
   {
     "id": "4316",
@@ -31095,87 +29856,59 @@
   },
   {
     "id": "4443",
-    "upazilla_id": "483",
+    "upazilla_id": "301",
     "name": "Shimulbak",
     "bn_name": "শিমুলবাক",
     "url": "shimulbak.gov.bd"
   },
   {
     "id": "4444",
-    "upazilla_id": "483",
+    "upazilla_id": "301",
     "name": "Pshchim Pagla",
     "bn_name": "পশ্চিম পাগলা",
     "url": "pshchim_pagla.gov.bd"
   },
   {
     "id": "4445",
-    "upazilla_id": "483",
+    "upazilla_id": "301",
     "name": "Purb Pagla",
     "bn_name": "পূর্ব পাগলা",
     "url": "purb_pagla.gov.bd"
   },
   {
     "id": "4446",
-    "upazilla_id": "483",
+    "upazilla_id": "301",
     "name": "Jjkls",
     "bn_name": "জয়কলস",
     "url": "jjkls.gov.bd"
   },
   {
     "id": "4447",
-    "upazilla_id": "483",
+    "upazilla_id": "301",
     "name": "Patharija",
     "bn_name": "পাথারিয়া",
     "url": "patharija.gov.bd"
   },
   {
     "id": "4448",
-    "upazilla_id": "483",
+    "upazilla_id": "301",
     "name": "Drgapasha",
     "bn_name": "দরগাপাশা",
     "url": "drgapasha.gov.bd"
   },
   {
     "id": "4449",
-    "upazilla_id": "483",
+    "upazilla_id": "301",
     "name": "Purb Birgano",
     "bn_name": "পূর্ব বীরগাঁও",
     "url": "purb_birgano.gov.bd"
   },
   {
     "id": "4450",
-    "upazilla_id": "483",
+    "upazilla_id": "301",
     "name": "Pshchim Birgano",
     "bn_name": "পশ্চিম বীরগাঁও",
     "url": "pshchim_birgano.gov.bd"
-  },
-  {
-    "id": "4451",
-    "upazilla_id": "491",
-    "name": "Atgano",
-    "bn_name": "আটগাঁও",
-    "url": "atgano_sullah.gov.bd"
-  },
-  {
-    "id": "4452",
-    "upazilla_id": "491",
-    "name": "Hbibpur",
-    "bn_name": "হবিবপুর",
-    "url": "hbibpur.gov.bd"
-  },
-  {
-    "id": "4453",
-    "upazilla_id": "491",
-    "name": "Bahada",
-    "bn_name": "বাহাড়া",
-    "url": "bahada.gov.bd"
-  },
-  {
-    "id": "4454",
-    "upazilla_id": "491",
-    "name": "Shalla",
-    "bn_name": "শাল্লা",
-    "url": "shalla.gov.bd"
   },
   {
     "id": "4455",
@@ -32051,5 +30784,3806 @@
     "name": "Sultanpur",
     "bn_name": "সুলতানপুর",
     "url": "sultanpur_zakiganj.gov.bd"
+  },
+  {
+    "id": "4580",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "বড়শালঘর",
+    "url": ""
+  },
+  {
+    "id": "4581",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "ইউসুফপুর",
+    "url": ""
+  },
+  {
+    "id": "4582",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "রসুলপুর",
+    "url": ""
+  },
+  {
+    "id": "4583",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "সুবিল",
+    "url": ""
+  },
+  {
+    "id": "4584",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "দেবিদ্বার",
+    "url": ""
+  },
+  {
+    "id": "4585",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "ফতেহাবাদ",
+    "url": ""
+  },
+  {
+    "id": "4586",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "এলাহাবাদ",
+    "url": ""
+  },
+  {
+    "id": "4587",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "জাফরগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "4588",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "গুনাইঘর উত্তর",
+    "url": ""
+  },
+  {
+    "id": "4589",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "গুনাইঘর দক্ষিণ",
+    "url": ""
+  },
+  {
+    "id": "4590",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "রাজামেহার",
+    "url": ""
+  },
+  {
+    "id": "4591",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "ভানী",
+    "url": ""
+  },
+  {
+    "id": "4592",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "ধামতী",
+    "url": ""
+  },
+  {
+    "id": "4593",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "সুলতানপুর",
+    "url": ""
+  },
+  {
+    "id": "4594",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "বরকামতা",
+    "url": ""
+  },
+  {
+    "id": "4595",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "মোহনপুর",
+    "url": ""
+  },
+  {
+    "id": "4596",
+    "upazilla_id": "1",
+    "name": "",
+    "bn_name": "দেবিদ্বার",
+    "url": ""
+  },
+  {
+    "id": "4597",
+    "upazilla_id": "11",
+    "name": "",
+    "bn_name": "বিজয়পুর",
+    "url": ""
+  },
+  {
+    "id": "4598",
+    "upazilla_id": "11",
+    "name": "",
+    "bn_name": "চৌয়ারা",
+    "url": ""
+  },
+  {
+    "id": "4599",
+    "upazilla_id": "11",
+    "name": "",
+    "bn_name": "গলিয়ারা",
+    "url": ""
+  },
+  {
+    "id": "4600",
+    "upazilla_id": "11",
+    "name": "",
+    "bn_name": "বারপাড়া",
+    "url": ""
+  },
+  {
+    "id": "4601",
+    "upazilla_id": "11",
+    "name": "",
+    "bn_name": "জোড়কানন পশ্চিম",
+    "url": ""
+  },
+  {
+    "id": "4602",
+    "upazilla_id": "11",
+    "name": "",
+    "bn_name": "জোড়কানন পূর্ব",
+    "url": ""
+  },
+  {
+    "id": "4603",
+    "upazilla_id": "14",
+    "name": "",
+    "bn_name": "বিজয়পুর",
+    "url": ""
+  },
+  {
+    "id": "4604",
+    "upazilla_id": "14",
+    "name": "",
+    "bn_name": "চৌয়ারা",
+    "url": ""
+  },
+  {
+    "id": "4605",
+    "upazilla_id": "14",
+    "name": "",
+    "bn_name": "গলিয়ারা",
+    "url": ""
+  },
+  {
+    "id": "4606",
+    "upazilla_id": "14",
+    "name": "",
+    "bn_name": "বারপাড়া",
+    "url": ""
+  },
+  {
+    "id": "4607",
+    "upazilla_id": "14",
+    "name": "",
+    "bn_name": "জোড়কানন পশ্চিম",
+    "url": ""
+  },
+  {
+    "id": "4608",
+    "upazilla_id": "14",
+    "name": "",
+    "bn_name": "জোড়কানন পূর্ব",
+    "url": ""
+  },
+  {
+    "id": "4609",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "সিরাজপুর",
+    "url": ""
+  },
+  {
+    "id": "4610",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "চর পার্বতী",
+    "url": ""
+  },
+  {
+    "id": "4611",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "চর হাজারী",
+    "url": ""
+  },
+  {
+    "id": "4612",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "চর কাঁকড়া",
+    "url": ""
+  },
+  {
+    "id": "4613",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "চর ফকিরা",
+    "url": ""
+  },
+  {
+    "id": "4614",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "রামপুর",
+    "url": ""
+  },
+  {
+    "id": "4615",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "মুছাপুর",
+    "url": ""
+  },
+  {
+    "id": "4616",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "চর এলাহী",
+    "url": ""
+  },
+  {
+    "id": "4617",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "পশ্চিম ইসলামপুর",
+    "url": ""
+  },
+  {
+    "id": "4618",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "পূর্ব ইসলামপুর",
+    "url": ""
+  },
+  {
+    "id": "4619",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "উত্তর রনিখাই",
+    "url": ""
+  },
+  {
+    "id": "4620",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "দক্ষিণ রনিখাই",
+    "url": ""
+  },
+  {
+    "id": "4621",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "তেলিখাল",
+    "url": ""
+  },
+  {
+    "id": "4622",
+    "upazilla_id": "44",
+    "name": "",
+    "bn_name": "ইছাকলস",
+    "url": ""
+  },
+  {
+    "id": "4623",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "বাধাল",
+    "url": ""
+  },
+  {
+    "id": "4624",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "গজালিয়া",
+    "url": ""
+  },
+  {
+    "id": "4625",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "ধোপাখালী",
+    "url": ""
+  },
+  {
+    "id": "4626",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "মঘিয়া",
+    "url": ""
+  },
+  {
+    "id": "4627",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "কচুয়া",
+    "url": ""
+  },
+  {
+    "id": "4628",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "গোপালপুর",
+    "url": ""
+  },
+  {
+    "id": "4629",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "রাড়ীপাড়া",
+    "url": ""
+  },
+  {
+    "id": "4630",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "সাচার",
+    "url": ""
+  },
+  {
+    "id": "4631",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "পাথৈর",
+    "url": ""
+  },
+  {
+    "id": "4632",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "বিতারা",
+    "url": ""
+  },
+  {
+    "id": "4633",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "পালাখাল",
+    "url": ""
+  },
+  {
+    "id": "4634",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "সহদেবপুর পশ্চিম",
+    "url": ""
+  },
+  {
+    "id": "4635",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "কচুয়া উত্তর",
+    "url": ""
+  },
+  {
+    "id": "4636",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "কচুয়া দক্ষিণ",
+    "url": ""
+  },
+  {
+    "id": "4637",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "কাদলা",
+    "url": ""
+  },
+  {
+    "id": "4638",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "কড়ইয়া",
+    "url": ""
+  },
+  {
+    "id": "4639",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "গোহট উত্তর",
+    "url": ""
+  },
+  {
+    "id": "4640",
+    "upazilla_id": "53",
+    "name": "",
+    "bn_name": "গোহট দক্ষিণ আশরাফপুর",
+    "url": ""
+  },
+  {
+    "id": "4641",
+    "upazilla_id": "90",
+    "name": "",
+    "bn_name": "লোগাং",
+    "url": ""
+  },
+  {
+    "id": "4642",
+    "upazilla_id": "90",
+    "name": "",
+    "bn_name": "চেঙ্গী",
+    "url": ""
+  },
+  {
+    "id": "4643",
+    "upazilla_id": "90",
+    "name": "",
+    "bn_name": "পানছড়ি",
+    "url": ""
+  },
+  {
+    "id": "4644",
+    "upazilla_id": "90",
+    "name": "",
+    "bn_name": "লতিবান  উল্টাছড়ি",
+    "url": ""
+  },
+  {
+    "id": "4645",
+    "upazilla_id": "92",
+    "name": "",
+    "bn_name": "মহালছড়ি",
+    "url": ""
+  },
+  {
+    "id": "4646",
+    "upazilla_id": "92",
+    "name": "",
+    "bn_name": "মুবাছড়ি",
+    "url": ""
+  },
+  {
+    "id": "4647",
+    "upazilla_id": "92",
+    "name": "",
+    "bn_name": "ক্যায়াংঘাট  মাইসছড়ি",
+    "url": ""
+  },
+  {
+    "id": "4648",
+    "upazilla_id": "93",
+    "name": "",
+    "bn_name": "মানিকছড়ি",
+    "url": ""
+  },
+  {
+    "id": "4649",
+    "upazilla_id": "93",
+    "name": "",
+    "bn_name": "বাটনাতলী",
+    "url": ""
+  },
+  {
+    "id": "4650",
+    "upazilla_id": "93",
+    "name": "",
+    "bn_name": "যোগ্যাছোলা  তিনটহরী",
+    "url": ""
+  },
+  {
+    "id": "4651",
+    "upazilla_id": "118",
+    "name": "",
+    "bn_name": "মাজপাড়া",
+    "url": ""
+  },
+  {
+    "id": "4652",
+    "upazilla_id": "118",
+    "name": "",
+    "bn_name": "চাঁদভা",
+    "url": ""
+  },
+  {
+    "id": "4653",
+    "upazilla_id": "118",
+    "name": "",
+    "bn_name": "দেবোত্তর",
+    "url": ""
+  },
+  {
+    "id": "4654",
+    "upazilla_id": "118",
+    "name": "",
+    "bn_name": "একদন্ত",
+    "url": ""
+  },
+  {
+    "id": "4655",
+    "upazilla_id": "118",
+    "name": "",
+    "bn_name": "লক্ষ্মীপুর",
+    "url": ""
+  },
+  {
+    "id": "4656",
+    "upazilla_id": "123",
+    "name": "",
+    "bn_name": "এরুলিয়া",
+    "url": ""
+  },
+  {
+    "id": "4657",
+    "upazilla_id": "123",
+    "name": "",
+    "bn_name": "ফাঁপোর",
+    "url": ""
+  },
+  {
+    "id": "4658",
+    "upazilla_id": "123",
+    "name": "",
+    "bn_name": "সাবগ্রাম",
+    "url": ""
+  },
+  {
+    "id": "4659",
+    "upazilla_id": "123",
+    "name": "",
+    "bn_name": "নিশিন্দারা",
+    "url": ""
+  },
+  {
+    "id": "4660",
+    "upazilla_id": "123",
+    "name": "",
+    "bn_name": "রাজাপুর",
+    "url": ""
+  },
+  {
+    "id": "4661",
+    "upazilla_id": "123",
+    "name": "",
+    "bn_name": "শাখারিয়া",
+    "url": ""
+  },
+  {
+    "id": "4662",
+    "upazilla_id": "123",
+    "name": "",
+    "bn_name": "শেখেরকোলা",
+    "url": ""
+  },
+  {
+    "id": "4663",
+    "upazilla_id": "123",
+    "name": "",
+    "bn_name": "গোকুল",
+    "url": ""
+  },
+  {
+    "id": "4664",
+    "upazilla_id": "123",
+    "name": "",
+    "bn_name": "নুনগোলা",
+    "url": ""
+  },
+  {
+    "id": "4665",
+    "upazilla_id": "123",
+    "name": "",
+    "bn_name": "লাহিড়ীপাড়া",
+    "url": ""
+  },
+  {
+    "id": "4666",
+    "upazilla_id": "123",
+    "name": "",
+    "bn_name": "নামুজা",
+    "url": ""
+  },
+  {
+    "id": "4667",
+    "upazilla_id": "129",
+    "name": "",
+    "bn_name": "সোনাতলা",
+    "url": ""
+  },
+  {
+    "id": "4668",
+    "upazilla_id": "129",
+    "name": "",
+    "bn_name": "বালুয়া",
+    "url": ""
+  },
+  {
+    "id": "4669",
+    "upazilla_id": "129",
+    "name": "",
+    "bn_name": "দিগদাইড়",
+    "url": ""
+  },
+  {
+    "id": "4670",
+    "upazilla_id": "129",
+    "name": "",
+    "bn_name": "জোড়গাছা",
+    "url": ""
+  },
+  {
+    "id": "4671",
+    "upazilla_id": "129",
+    "name": "",
+    "bn_name": "মধুপুর",
+    "url": ""
+  },
+  {
+    "id": "4672",
+    "upazilla_id": "129",
+    "name": "",
+    "bn_name": "তেকানী চুকাইনগর",
+    "url": ""
+  },
+  {
+    "id": "4673",
+    "upazilla_id": "129",
+    "name": "",
+    "bn_name": "পাকুল্যা",
+    "url": ""
+  },
+  {
+    "id": "4674",
+    "upazilla_id": "130",
+    "name": "",
+    "bn_name": "নিমগাছি",
+    "url": ""
+  },
+  {
+    "id": "4675",
+    "upazilla_id": "130",
+    "name": "",
+    "bn_name": "কালের পাড়া",
+    "url": ""
+  },
+  {
+    "id": "4676",
+    "upazilla_id": "130",
+    "name": "",
+    "bn_name": "চিকাশী",
+    "url": ""
+  },
+  {
+    "id": "4677",
+    "upazilla_id": "130",
+    "name": "",
+    "bn_name": "গোসাইবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "4678",
+    "upazilla_id": "130",
+    "name": "",
+    "bn_name": "ভান্ডারবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "4679",
+    "upazilla_id": "130",
+    "name": "",
+    "bn_name": "ধুনট",
+    "url": ""
+  },
+  {
+    "id": "4680",
+    "upazilla_id": "130",
+    "name": "",
+    "bn_name": "এলাঙ্গী",
+    "url": ""
+  },
+  {
+    "id": "4681",
+    "upazilla_id": "130",
+    "name": "",
+    "bn_name": "চৌকিবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "4682",
+    "upazilla_id": "130",
+    "name": "",
+    "bn_name": "মথুরাপুর",
+    "url": ""
+  },
+  {
+    "id": "4683",
+    "upazilla_id": "130",
+    "name": "",
+    "bn_name": "গোপালনগর",
+    "url": ""
+  },
+  {
+    "id": "4684",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "বিনোদপুর",
+    "url": ""
+  },
+  {
+    "id": "4685",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "চককির্তী",
+    "url": ""
+  },
+  {
+    "id": "4686",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "দাইপুকুরিয়া",
+    "url": ""
+  },
+  {
+    "id": "4687",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "ধাইনগর",
+    "url": ""
+  },
+  {
+    "id": "4688",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "দূর্লভপুর",
+    "url": ""
+  },
+  {
+    "id": "4689",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "ঘোড়াপাখিয়া",
+    "url": ""
+  },
+  {
+    "id": "4690",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "মোবারকপুর",
+    "url": ""
+  },
+  {
+    "id": "4691",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "মনাকষা",
+    "url": ""
+  },
+  {
+    "id": "4692",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "নয়ালাভাঙ্গা",
+    "url": ""
+  },
+  {
+    "id": "4693",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "পাঁকা",
+    "url": ""
+  },
+  {
+    "id": "4694",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "ছত্রাজিতপুর",
+    "url": ""
+  },
+  {
+    "id": "4695",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "শাহবাজপুর",
+    "url": ""
+  },
+  {
+    "id": "4696",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "শ্যামপুর",
+    "url": ""
+  },
+  {
+    "id": "4697",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "কানসাট",
+    "url": ""
+  },
+  {
+    "id": "4698",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "উজিরপুর",
+    "url": ""
+  },
+  {
+    "id": "4699",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "শিবগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "4700",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "বিহার",
+    "url": ""
+  },
+  {
+    "id": "4701",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "রায়নগর",
+    "url": ""
+  },
+  {
+    "id": "4702",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "বুড়িগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "4703",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "মাঝিহট্ট",
+    "url": ""
+  },
+  {
+    "id": "4704",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "পিরব",
+    "url": ""
+  },
+  {
+    "id": "4705",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "আটমূল",
+    "url": ""
+  },
+  {
+    "id": "4706",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "কিচক",
+    "url": ""
+  },
+  {
+    "id": "4707",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "ময়দানহাট্টা",
+    "url": ""
+  },
+  {
+    "id": "4708",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "দেউলি",
+    "url": ""
+  },
+  {
+    "id": "4709",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "মোকামতলা",
+    "url": ""
+  },
+  {
+    "id": "4710",
+    "upazilla_id": "133",
+    "name": "",
+    "bn_name": "সৈয়দপুর",
+    "url": ""
+  },
+  {
+    "id": "4711",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "বিনোদপুর",
+    "url": ""
+  },
+  {
+    "id": "4712",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "চককির্তী",
+    "url": ""
+  },
+  {
+    "id": "4713",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "দাইপুকুরিয়া",
+    "url": ""
+  },
+  {
+    "id": "4714",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "ধাইনগর",
+    "url": ""
+  },
+  {
+    "id": "4715",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "দূর্লভপুর",
+    "url": ""
+  },
+  {
+    "id": "4716",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "ঘোড়াপাখিয়া",
+    "url": ""
+  },
+  {
+    "id": "4717",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "মোবারকপুর",
+    "url": ""
+  },
+  {
+    "id": "4718",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "মনাকষা",
+    "url": ""
+  },
+  {
+    "id": "4719",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "নয়ালাভাঙ্গা",
+    "url": ""
+  },
+  {
+    "id": "4720",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "পাঁকা",
+    "url": ""
+  },
+  {
+    "id": "4721",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "ছত্রাজিতপুর",
+    "url": ""
+  },
+  {
+    "id": "4722",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "শাহবাজপুর",
+    "url": ""
+  },
+  {
+    "id": "4723",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "শ্যামপুর",
+    "url": ""
+  },
+  {
+    "id": "4724",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "কানসাট",
+    "url": ""
+  },
+  {
+    "id": "4725",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "উজিরপুর",
+    "url": ""
+  },
+  {
+    "id": "4726",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "শিবগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "4727",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "বিহার",
+    "url": ""
+  },
+  {
+    "id": "4728",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "রায়নগর",
+    "url": ""
+  },
+  {
+    "id": "4729",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "বুড়িগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "4730",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "মাঝিহট্ট",
+    "url": ""
+  },
+  {
+    "id": "4731",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "পিরব",
+    "url": ""
+  },
+  {
+    "id": "4732",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "আটমূল",
+    "url": ""
+  },
+  {
+    "id": "4733",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "কিচক",
+    "url": ""
+  },
+  {
+    "id": "4734",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "ময়দানহাট্টা",
+    "url": ""
+  },
+  {
+    "id": "4735",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "দেউলি",
+    "url": ""
+  },
+  {
+    "id": "4736",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "মোকামতলা",
+    "url": ""
+  },
+  {
+    "id": "4737",
+    "upazilla_id": "159",
+    "name": "",
+    "bn_name": "সৈয়দপুর",
+    "url": ""
+  },
+  {
+    "id": "4738",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "সুন্দরপুর-দুর্গাপুর",
+    "url": ""
+  },
+  {
+    "id": "4739",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "জামাল",
+    "url": ""
+  },
+  {
+    "id": "4740",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "কোলা",
+    "url": ""
+  },
+  {
+    "id": "4741",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "নিয়ামতপুর",
+    "url": ""
+  },
+  {
+    "id": "4742",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "শিমলা-রোকনপুর",
+    "url": ""
+  },
+  {
+    "id": "4743",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "ত্রিলোচনপুর",
+    "url": ""
+  },
+  {
+    "id": "4744",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "রায়গ্রাম",
+    "url": ""
+  },
+  {
+    "id": "4745",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "মালিয়াট",
+    "url": ""
+  },
+  {
+    "id": "4746",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "বারবাজার",
+    "url": ""
+  },
+  {
+    "id": "4747",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "কাষ্টভাঙ্গা",
+    "url": ""
+  },
+  {
+    "id": "4748",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "রাখালগাছি",
+    "url": ""
+  },
+  {
+    "id": "4749",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "কৃষ্ণনগর",
+    "url": ""
+  },
+  {
+    "id": "4750",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "বিষ্ণুপুর",
+    "url": ""
+  },
+  {
+    "id": "4751",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "চাম্পাফুল",
+    "url": ""
+  },
+  {
+    "id": "4752",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "দক্ষিণ শ্রীপুর",
+    "url": ""
+  },
+  {
+    "id": "4753",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "কুশুলিয়া",
+    "url": ""
+  },
+  {
+    "id": "4754",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "নলতা",
+    "url": ""
+  },
+  {
+    "id": "4755",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "তারালী",
+    "url": ""
+  },
+  {
+    "id": "4756",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "ভাড়াশিমলা",
+    "url": ""
+  },
+  {
+    "id": "4757",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "মথুরেশপুর",
+    "url": ""
+  },
+  {
+    "id": "4758",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "ধলবাড়িয়া",
+    "url": ""
+  },
+  {
+    "id": "4759",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "রতনপুর",
+    "url": ""
+  },
+  {
+    "id": "4760",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "মৌতলা",
+    "url": ""
+  },
+  {
+    "id": "4761",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "তুমুলিয়া",
+    "url": ""
+  },
+  {
+    "id": "4762",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "মোক্তারপুর",
+    "url": ""
+  },
+  {
+    "id": "4763",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "নাগরী",
+    "url": ""
+  },
+  {
+    "id": "4764",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "বক্তারপুর",
+    "url": ""
+  },
+  {
+    "id": "4765",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "জাঙ্গালিয়া",
+    "url": ""
+  },
+  {
+    "id": "4766",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "বাহাদুরশাদী",
+    "url": ""
+  },
+  {
+    "id": "4767",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "জামালপুর",
+    "url": ""
+  },
+  {
+    "id": "4768",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "কাকিনা",
+    "url": ""
+  },
+  {
+    "id": "4769",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "গোড়ল",
+    "url": ""
+  },
+  {
+    "id": "4770",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "চন্দ্রপুর",
+    "url": ""
+  },
+  {
+    "id": "4771",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "চলবলা",
+    "url": ""
+  },
+  {
+    "id": "4772",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "তুষভান্ডার",
+    "url": ""
+  },
+  {
+    "id": "4773",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "দলগ্রাম",
+    "url": ""
+  },
+  {
+    "id": "4774",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "ভোটমারী",
+    "url": ""
+  },
+  {
+    "id": "4775",
+    "upazilla_id": "185",
+    "name": "",
+    "bn_name": "মদাতী",
+    "url": ""
+  },
+  {
+    "id": "4776",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "সুন্দরপুর-দুর্গাপুর",
+    "url": ""
+  },
+  {
+    "id": "4777",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "জামাল",
+    "url": ""
+  },
+  {
+    "id": "4778",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "কোলা",
+    "url": ""
+  },
+  {
+    "id": "4779",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "নিয়ামতপুর",
+    "url": ""
+  },
+  {
+    "id": "4780",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "শিমলা-রোকনপুর",
+    "url": ""
+  },
+  {
+    "id": "4781",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "ত্রিলোচনপুর",
+    "url": ""
+  },
+  {
+    "id": "4782",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "রায়গ্রাম",
+    "url": ""
+  },
+  {
+    "id": "4783",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "মালিয়াট",
+    "url": ""
+  },
+  {
+    "id": "4784",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "বারবাজার",
+    "url": ""
+  },
+  {
+    "id": "4785",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "কাষ্টভাঙ্গা",
+    "url": ""
+  },
+  {
+    "id": "4786",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "রাখালগাছি",
+    "url": ""
+  },
+  {
+    "id": "4787",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "কৃষ্ণনগর",
+    "url": ""
+  },
+  {
+    "id": "4788",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "বিষ্ণুপুর",
+    "url": ""
+  },
+  {
+    "id": "4789",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "চাম্পাফুল",
+    "url": ""
+  },
+  {
+    "id": "4790",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "দক্ষিণ শ্রীপুর",
+    "url": ""
+  },
+  {
+    "id": "4791",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "কুশুলিয়া",
+    "url": ""
+  },
+  {
+    "id": "4792",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "নলতা",
+    "url": ""
+  },
+  {
+    "id": "4793",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "তারালী",
+    "url": ""
+  },
+  {
+    "id": "4794",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "ভাড়াশিমলা",
+    "url": ""
+  },
+  {
+    "id": "4795",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "মথুরেশপুর",
+    "url": ""
+  },
+  {
+    "id": "4796",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "ধলবাড়িয়া",
+    "url": ""
+  },
+  {
+    "id": "4797",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "রতনপুর",
+    "url": ""
+  },
+  {
+    "id": "4798",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "মৌতলা",
+    "url": ""
+  },
+  {
+    "id": "4799",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "তুমুলিয়া",
+    "url": ""
+  },
+  {
+    "id": "4800",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "মোক্তারপুর",
+    "url": ""
+  },
+  {
+    "id": "4801",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "নাগরী",
+    "url": ""
+  },
+  {
+    "id": "4802",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "বক্তারপুর",
+    "url": ""
+  },
+  {
+    "id": "4803",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "জাঙ্গালিয়া",
+    "url": ""
+  },
+  {
+    "id": "4804",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "বাহাদুরশাদী",
+    "url": ""
+  },
+  {
+    "id": "4805",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "জামালপুর",
+    "url": ""
+  },
+  {
+    "id": "4806",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "কাকিনা",
+    "url": ""
+  },
+  {
+    "id": "4807",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "গোড়ল",
+    "url": ""
+  },
+  {
+    "id": "4808",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "চন্দ্রপুর",
+    "url": ""
+  },
+  {
+    "id": "4809",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "চলবলা",
+    "url": ""
+  },
+  {
+    "id": "4810",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "তুষভান্ডার",
+    "url": ""
+  },
+  {
+    "id": "4811",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "দলগ্রাম",
+    "url": ""
+  },
+  {
+    "id": "4812",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "ভোটমারী",
+    "url": ""
+  },
+  {
+    "id": "4813",
+    "upazilla_id": "227",
+    "name": "",
+    "bn_name": "মদাতী",
+    "url": ""
+  },
+  {
+    "id": "4814",
+    "upazilla_id": "244",
+    "name": "",
+    "bn_name": "বেতবুনিয়া",
+    "url": ""
+  },
+  {
+    "id": "4815",
+    "upazilla_id": "244",
+    "name": "",
+    "bn_name": "ফটিকছড়ি",
+    "url": ""
+  },
+  {
+    "id": "4816",
+    "upazilla_id": "244",
+    "name": "",
+    "bn_name": "ঘাগড়া  কলমপতি",
+    "url": ""
+  },
+  {
+    "id": "4817",
+    "upazilla_id": "244",
+    "name": "",
+    "bn_name": "সয়না রঘুনাথপুর",
+    "url": ""
+  },
+  {
+    "id": "4818",
+    "upazilla_id": "244",
+    "name": "",
+    "bn_name": "আমড়াজুড়ি",
+    "url": ""
+  },
+  {
+    "id": "4819",
+    "upazilla_id": "244",
+    "name": "",
+    "bn_name": "কাউখালী সদর",
+    "url": ""
+  },
+  {
+    "id": "4820",
+    "upazilla_id": "244",
+    "name": "",
+    "bn_name": "চিরাপাড়া",
+    "url": ""
+  },
+  {
+    "id": "4821",
+    "upazilla_id": "244",
+    "name": "",
+    "bn_name": "শিয়ালকাঠী",
+    "url": ""
+  },
+  {
+    "id": "4822",
+    "upazilla_id": "260",
+    "name": "",
+    "bn_name": "গংগাপুর",
+    "url": ""
+  },
+  {
+    "id": "4823",
+    "upazilla_id": "260",
+    "name": "",
+    "bn_name": "সাচড়া",
+    "url": ""
+  },
+  {
+    "id": "4824",
+    "upazilla_id": "260",
+    "name": "",
+    "bn_name": "কাচিয়া",
+    "url": ""
+  },
+  {
+    "id": "4825",
+    "upazilla_id": "260",
+    "name": "",
+    "bn_name": "হাসাননগর",
+    "url": ""
+  },
+  {
+    "id": "4826",
+    "upazilla_id": "260",
+    "name": "",
+    "bn_name": "টবগী",
+    "url": ""
+  },
+  {
+    "id": "4827",
+    "upazilla_id": "260",
+    "name": "",
+    "bn_name": "পক্ষিয়া",
+    "url": ""
+  },
+  {
+    "id": "4828",
+    "upazilla_id": "260",
+    "name": "",
+    "bn_name": "বড় মানিকা",
+    "url": ""
+  },
+  {
+    "id": "4829",
+    "upazilla_id": "260",
+    "name": "",
+    "bn_name": "কুতুবা",
+    "url": ""
+  },
+  {
+    "id": "4830",
+    "upazilla_id": "260",
+    "name": "",
+    "bn_name": "দেউলা",
+    "url": ""
+  },
+  {
+    "id": "4831",
+    "upazilla_id": "276",
+    "name": "",
+    "bn_name": "ফেঞ্চুগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "4832",
+    "upazilla_id": "276",
+    "name": "",
+    "bn_name": "মাইজগাঁও",
+    "url": ""
+  },
+  {
+    "id": "4833",
+    "upazilla_id": "276",
+    "name": "",
+    "bn_name": "ঘিলাছড়া",
+    "url": ""
+  },
+  {
+    "id": "4834",
+    "upazilla_id": "276",
+    "name": "",
+    "bn_name": "উত্তর কুশিয়ারা",
+    "url": ""
+  },
+  {
+    "id": "4835",
+    "upazilla_id": "276",
+    "name": "",
+    "bn_name": "উত্তর ফেঞ্চুগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "4836",
+    "upazilla_id": "284",
+    "name": "",
+    "bn_name": "দয়ামীর",
+    "url": ""
+  },
+  {
+    "id": "4837",
+    "upazilla_id": "284",
+    "name": "",
+    "bn_name": "উসমানপুর",
+    "url": ""
+  },
+  {
+    "id": "4838",
+    "upazilla_id": "284",
+    "name": "",
+    "bn_name": "তাজপুর",
+    "url": ""
+  },
+  {
+    "id": "4839",
+    "upazilla_id": "284",
+    "name": "",
+    "bn_name": "উমরপুর",
+    "url": ""
+  },
+  {
+    "id": "4840",
+    "upazilla_id": "284",
+    "name": "",
+    "bn_name": "গোয়ালা বাজার",
+    "url": ""
+  },
+  {
+    "id": "4841",
+    "upazilla_id": "284",
+    "name": "",
+    "bn_name": "বুরুঙ্গাবাজার",
+    "url": ""
+  },
+  {
+    "id": "4842",
+    "upazilla_id": "284",
+    "name": "",
+    "bn_name": "পশ্চিম পৈলনপুর",
+    "url": ""
+  },
+  {
+    "id": "4843",
+    "upazilla_id": "284",
+    "name": "",
+    "bn_name": "সাদীপুর",
+    "url": ""
+  },
+  {
+    "id": "4844",
+    "upazilla_id": "309",
+    "name": "",
+    "bn_name": "আটগাঁও",
+    "url": ""
+  },
+  {
+    "id": "4845",
+    "upazilla_id": "309",
+    "name": "",
+    "bn_name": "হবিবপুর",
+    "url": ""
+  },
+  {
+    "id": "4846",
+    "upazilla_id": "309",
+    "name": "",
+    "bn_name": "বাহাড়া",
+    "url": ""
+  },
+  {
+    "id": "4847",
+    "upazilla_id": "309",
+    "name": "",
+    "bn_name": "শাল্লা",
+    "url": ""
+  },
+  {
+    "id": "4848",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "সুন্দরপুর-দুর্গাপুর",
+    "url": ""
+  },
+  {
+    "id": "4849",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "জামাল",
+    "url": ""
+  },
+  {
+    "id": "4850",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "কোলা",
+    "url": ""
+  },
+  {
+    "id": "4851",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "নিয়ামতপুর",
+    "url": ""
+  },
+  {
+    "id": "4852",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "শিমলা-রোকনপুর",
+    "url": ""
+  },
+  {
+    "id": "4853",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "ত্রিলোচনপুর",
+    "url": ""
+  },
+  {
+    "id": "4854",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "রায়গ্রাম",
+    "url": ""
+  },
+  {
+    "id": "4855",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "মালিয়াট",
+    "url": ""
+  },
+  {
+    "id": "4856",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "বারবাজার",
+    "url": ""
+  },
+  {
+    "id": "4857",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "কাষ্টভাঙ্গা",
+    "url": ""
+  },
+  {
+    "id": "4858",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "রাখালগাছি",
+    "url": ""
+  },
+  {
+    "id": "4859",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "কৃষ্ণনগর",
+    "url": ""
+  },
+  {
+    "id": "4860",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "বিষ্ণুপুর",
+    "url": ""
+  },
+  {
+    "id": "4861",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "চাম্পাফুল",
+    "url": ""
+  },
+  {
+    "id": "4862",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "দক্ষিণ শ্রীপুর",
+    "url": ""
+  },
+  {
+    "id": "4863",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "কুশুলিয়া",
+    "url": ""
+  },
+  {
+    "id": "4864",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "নলতা",
+    "url": ""
+  },
+  {
+    "id": "4865",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "তারালী",
+    "url": ""
+  },
+  {
+    "id": "4866",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "ভাড়াশিমলা",
+    "url": ""
+  },
+  {
+    "id": "4867",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "মথুরেশপুর",
+    "url": ""
+  },
+  {
+    "id": "4868",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "ধলবাড়িয়া",
+    "url": ""
+  },
+  {
+    "id": "4869",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "রতনপুর",
+    "url": ""
+  },
+  {
+    "id": "4870",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "মৌতলা",
+    "url": ""
+  },
+  {
+    "id": "4871",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "তুমুলিয়া",
+    "url": ""
+  },
+  {
+    "id": "4872",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "মোক্তারপুর",
+    "url": ""
+  },
+  {
+    "id": "4873",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "নাগরী",
+    "url": ""
+  },
+  {
+    "id": "4874",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "বক্তারপুর",
+    "url": ""
+  },
+  {
+    "id": "4875",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "জাঙ্গালিয়া",
+    "url": ""
+  },
+  {
+    "id": "4876",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "বাহাদুরশাদী",
+    "url": ""
+  },
+  {
+    "id": "4877",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "জামালপুর",
+    "url": ""
+  },
+  {
+    "id": "4878",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "কাকিনা",
+    "url": ""
+  },
+  {
+    "id": "4879",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "গোড়ল",
+    "url": ""
+  },
+  {
+    "id": "4880",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "চন্দ্রপুর",
+    "url": ""
+  },
+  {
+    "id": "4881",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "চলবলা",
+    "url": ""
+  },
+  {
+    "id": "4882",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "তুষভান্ডার",
+    "url": ""
+  },
+  {
+    "id": "4883",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "দলগ্রাম",
+    "url": ""
+  },
+  {
+    "id": "4884",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "ভোটমারী",
+    "url": ""
+  },
+  {
+    "id": "4885",
+    "upazilla_id": "317",
+    "name": "",
+    "bn_name": "মদাতী",
+    "url": ""
+  },
+  {
+    "id": "4886",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "গয়েশপুর",
+    "url": ""
+  },
+  {
+    "id": "4887",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "আমলসার",
+    "url": ""
+  },
+  {
+    "id": "4888",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "শ্রীকোল",
+    "url": ""
+  },
+  {
+    "id": "4889",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "শ্রীপুর",
+    "url": ""
+  },
+  {
+    "id": "4890",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "দ্বারিয়াপুর",
+    "url": ""
+  },
+  {
+    "id": "4891",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "কাদিরপাড়া",
+    "url": ""
+  },
+  {
+    "id": "4892",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "সব্দালপুর",
+    "url": ""
+  },
+  {
+    "id": "4893",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "নাকোল",
+    "url": ""
+  },
+  {
+    "id": "4894",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "মাওনা",
+    "url": ""
+  },
+  {
+    "id": "4895",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "গাজীপুর",
+    "url": ""
+  },
+  {
+    "id": "4896",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "তেলিহাটী",
+    "url": ""
+  },
+  {
+    "id": "4897",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "বরমী",
+    "url": ""
+  },
+  {
+    "id": "4898",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "কাওরাইদ",
+    "url": ""
+  },
+  {
+    "id": "4899",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "গোসিংগা",
+    "url": ""
+  },
+  {
+    "id": "4900",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "রাজাবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "4901",
+    "upazilla_id": "321",
+    "name": "",
+    "bn_name": "প্রহলাদপুর",
+    "url": ""
+  },
+  {
+    "id": "4902",
+    "upazilla_id": "352",
+    "name": "",
+    "bn_name": "রশিদাবাদ",
+    "url": ""
+  },
+  {
+    "id": "4903",
+    "upazilla_id": "352",
+    "name": "",
+    "bn_name": "লতিবাবাদ",
+    "url": ""
+  },
+  {
+    "id": "4904",
+    "upazilla_id": "352",
+    "name": "",
+    "bn_name": "মাইজখাপন",
+    "url": ""
+  },
+  {
+    "id": "4905",
+    "upazilla_id": "352",
+    "name": "",
+    "bn_name": "মহিনন্দ",
+    "url": ""
+  },
+  {
+    "id": "4906",
+    "upazilla_id": "352",
+    "name": "",
+    "bn_name": "যশোদল",
+    "url": ""
+  },
+  {
+    "id": "4907",
+    "upazilla_id": "352",
+    "name": "",
+    "bn_name": "বৌলাই",
+    "url": ""
+  },
+  {
+    "id": "4908",
+    "upazilla_id": "352",
+    "name": "",
+    "bn_name": "বিন্নাটি",
+    "url": ""
+  },
+  {
+    "id": "4909",
+    "upazilla_id": "352",
+    "name": "",
+    "bn_name": "মারিয়া",
+    "url": ""
+  },
+  {
+    "id": "4910",
+    "upazilla_id": "352",
+    "name": "",
+    "bn_name": "চৌদ্দশত",
+    "url": ""
+  },
+  {
+    "id": "4911",
+    "upazilla_id": "352",
+    "name": "",
+    "bn_name": "কর্শাকড়িয়াইল",
+    "url": ""
+  },
+  {
+    "id": "4912",
+    "upazilla_id": "352",
+    "name": "",
+    "bn_name": "দানাপাটুলী",
+    "url": ""
+  },
+  {
+    "id": "4913",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "দৌলতপুর",
+    "url": ""
+  },
+  {
+    "id": "4914",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "রেফাইতপুর",
+    "url": ""
+  },
+  {
+    "id": "4915",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "আদাবাড়ীয়া",
+    "url": ""
+  },
+  {
+    "id": "4916",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "হোগলবাড়ীয়া",
+    "url": ""
+  },
+  {
+    "id": "4917",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "বোয়ালিয়া",
+    "url": ""
+  },
+  {
+    "id": "4918",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "ফিলিপনগর",
+    "url": ""
+  },
+  {
+    "id": "4919",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "মথুরাপুর",
+    "url": ""
+  },
+  {
+    "id": "4920",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "প্রাগপুর",
+    "url": ""
+  },
+  {
+    "id": "4921",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "মরিচা",
+    "url": ""
+  },
+  {
+    "id": "4922",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "চিলমারী",
+    "url": ""
+  },
+  {
+    "id": "4923",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "রামকৃষ্ণপুর",
+    "url": ""
+  },
+  {
+    "id": "4924",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "আড়িয়া",
+    "url": ""
+  },
+  {
+    "id": "4925",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "খলিষাকুন্ডি",
+    "url": ""
+  },
+  {
+    "id": "4926",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "পিয়ারপুর",
+    "url": ""
+  },
+  {
+    "id": "4927",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "চকমিরপুর",
+    "url": ""
+  },
+  {
+    "id": "4928",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "কলিয়া",
+    "url": ""
+  },
+  {
+    "id": "4929",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "বাচামারা",
+    "url": ""
+  },
+  {
+    "id": "4930",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "বাঘুটিয়া",
+    "url": ""
+  },
+  {
+    "id": "4931",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "জিয়নপুর",
+    "url": ""
+  },
+  {
+    "id": "4932",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "খলশী",
+    "url": ""
+  },
+  {
+    "id": "4933",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "ধামশ্বর",
+    "url": ""
+  },
+  {
+    "id": "4934",
+    "upazilla_id": "363",
+    "name": "",
+    "bn_name": "চরকাটারী",
+    "url": ""
+  },
+  {
+    "id": "4935",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "আগলা",
+    "url": ""
+  },
+  {
+    "id": "4936",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "কলাকোপা",
+    "url": ""
+  },
+  {
+    "id": "4937",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "কৈলাইল",
+    "url": ""
+  },
+  {
+    "id": "4938",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "গালিমপুর",
+    "url": ""
+  },
+  {
+    "id": "4939",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "চুড়াইন",
+    "url": ""
+  },
+  {
+    "id": "4940",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "জয়কৃষ্ণপুর",
+    "url": ""
+  },
+  {
+    "id": "4941",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "নয়নশ্রী",
+    "url": ""
+  },
+  {
+    "id": "4942",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "বক্সনগর",
+    "url": ""
+  },
+  {
+    "id": "4943",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "বারুয়াখালী",
+    "url": ""
+  },
+  {
+    "id": "4944",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "বাহ্রা",
+    "url": ""
+  },
+  {
+    "id": "4945",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "বান্দুরা",
+    "url": ""
+  },
+  {
+    "id": "4946",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "যন্ত্রাইল",
+    "url": ""
+  },
+  {
+    "id": "4947",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "শিকারীপাড়া",
+    "url": ""
+  },
+  {
+    "id": "4948",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "শোল্লা",
+    "url": ""
+  },
+  {
+    "id": "4949",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "জয়পুর",
+    "url": ""
+  },
+  {
+    "id": "4950",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "বিনোদনগর",
+    "url": ""
+  },
+  {
+    "id": "4951",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "গোলাপগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "4952",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "শালখুরিয়া",
+    "url": ""
+  },
+  {
+    "id": "4953",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "পুটিমারা",
+    "url": ""
+  },
+  {
+    "id": "4954",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "ভাদুরিয়া",
+    "url": ""
+  },
+  {
+    "id": "4955",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "দাউদপুর",
+    "url": ""
+  },
+  {
+    "id": "4956",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "মাহামুদপুর",
+    "url": ""
+  },
+  {
+    "id": "4957",
+    "upazilla_id": "368",
+    "name": "",
+    "bn_name": "কুশদহ",
+    "url": ""
+  },
+  {
+    "id": "4958",
+    "upazilla_id": "374",
+    "name": "",
+    "bn_name": "টেংগারচর",
+    "url": ""
+  },
+  {
+    "id": "4959",
+    "upazilla_id": "374",
+    "name": "",
+    "bn_name": "বালুয়াকান্দি",
+    "url": ""
+  },
+  {
+    "id": "4960",
+    "upazilla_id": "374",
+    "name": "",
+    "bn_name": "ভবেরচর",
+    "url": ""
+  },
+  {
+    "id": "4961",
+    "upazilla_id": "374",
+    "name": "",
+    "bn_name": "বাউশিয়া",
+    "url": ""
+  },
+  {
+    "id": "4962",
+    "upazilla_id": "374",
+    "name": "",
+    "bn_name": "গজারিয়া",
+    "url": ""
+  },
+  {
+    "id": "4963",
+    "upazilla_id": "374",
+    "name": "",
+    "bn_name": "হোসেন্দী",
+    "url": ""
+  },
+  {
+    "id": "4964",
+    "upazilla_id": "374",
+    "name": "",
+    "bn_name": "ইমামপুর",
+    "url": ""
+  },
+  {
+    "id": "4965",
+    "upazilla_id": "374",
+    "name": "",
+    "bn_name": "গুয়াগাছিয়া",
+    "url": ""
+  },
+  {
+    "id": "4966",
+    "upazilla_id": "378",
+    "name": "",
+    "bn_name": "হাবাসপুর",
+    "url": ""
+  },
+  {
+    "id": "4967",
+    "upazilla_id": "378",
+    "name": "",
+    "bn_name": "বাহাদুরপুর",
+    "url": ""
+  },
+  {
+    "id": "4968",
+    "upazilla_id": "378",
+    "name": "",
+    "bn_name": "যশাই",
+    "url": ""
+  },
+  {
+    "id": "4969",
+    "upazilla_id": "378",
+    "name": "",
+    "bn_name": "বাবুপাড়া",
+    "url": ""
+  },
+  {
+    "id": "4970",
+    "upazilla_id": "378",
+    "name": "",
+    "bn_name": "মাছপাড়া",
+    "url": ""
+  },
+  {
+    "id": "4971",
+    "upazilla_id": "378",
+    "name": "",
+    "bn_name": "কলিমহর",
+    "url": ""
+  },
+  {
+    "id": "4972",
+    "upazilla_id": "378",
+    "name": "",
+    "bn_name": "সরিষা",
+    "url": ""
+  },
+  {
+    "id": "4973",
+    "upazilla_id": "378",
+    "name": "",
+    "bn_name": "কসবামাজাইল",
+    "url": ""
+  },
+  {
+    "id": "4974",
+    "upazilla_id": "378",
+    "name": "",
+    "bn_name": "মৌরাট",
+    "url": ""
+  },
+  {
+    "id": "4975",
+    "upazilla_id": "378",
+    "name": "",
+    "bn_name": "পাট্টা",
+    "url": ""
+  },
+  {
+    "id": "4976",
+    "upazilla_id": "390",
+    "name": "",
+    "bn_name": "ঈশান গোপালপুর",
+    "url": ""
+  },
+  {
+    "id": "4977",
+    "upazilla_id": "390",
+    "name": "",
+    "bn_name": "চরমাধবদিয়া",
+    "url": ""
+  },
+  {
+    "id": "4978",
+    "upazilla_id": "390",
+    "name": "",
+    "bn_name": "নর্থচ্যানেল",
+    "url": ""
+  },
+  {
+    "id": "4979",
+    "upazilla_id": "390",
+    "name": "",
+    "bn_name": "আলিয়াবাদ",
+    "url": ""
+  },
+  {
+    "id": "4980",
+    "upazilla_id": "390",
+    "name": "",
+    "bn_name": "ডিক্রীরচর",
+    "url": ""
+  },
+  {
+    "id": "4981",
+    "upazilla_id": "390",
+    "name": "",
+    "bn_name": "মাচ্চর",
+    "url": ""
+  },
+  {
+    "id": "4982",
+    "upazilla_id": "390",
+    "name": "",
+    "bn_name": "অম্বিকাপুর",
+    "url": ""
+  },
+  {
+    "id": "4983",
+    "upazilla_id": "390",
+    "name": "",
+    "bn_name": "কৃষ্ণনগর",
+    "url": ""
+  },
+  {
+    "id": "4984",
+    "upazilla_id": "390",
+    "name": "",
+    "bn_name": "কানাইপুর",
+    "url": ""
+  },
+  {
+    "id": "4985",
+    "upazilla_id": "390",
+    "name": "",
+    "bn_name": "কৈজুরী",
+    "url": ""
+  },
+  {
+    "id": "4986",
+    "upazilla_id": "390",
+    "name": "",
+    "bn_name": "গেরদা",
+    "url": ""
+  },
+  {
+    "id": "4987",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "শিমুলবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "4988",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "নাওডাঙ্গা",
+    "url": ""
+  },
+  {
+    "id": "4989",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "ভাঙ্গামোড়",
+    "url": ""
+  },
+  {
+    "id": "4990",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "ফুলবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "4991",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "কাশিপুর",
+    "url": ""
+  },
+  {
+    "id": "4992",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "বড়ভিটা",
+    "url": ""
+  },
+  {
+    "id": "4993",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "এলুয়াড়ী",
+    "url": ""
+  },
+  {
+    "id": "4994",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "আলাদীপুর",
+    "url": ""
+  },
+  {
+    "id": "4995",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "কাজিহাল",
+    "url": ""
+  },
+  {
+    "id": "4996",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "বেতদিঘী",
+    "url": ""
+  },
+  {
+    "id": "4997",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "খয়েরবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "4998",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "দৌলতপুর",
+    "url": ""
+  },
+  {
+    "id": "4999",
+    "upazilla_id": "411",
+    "name": "",
+    "bn_name": "শিবনগর",
+    "url": ""
+  },
+  {
+    "id": "5000",
+    "upazilla_id": "431",
+    "name": "",
+    "bn_name": "পদুমশহর",
+    "url": ""
+  },
+  {
+    "id": "5001",
+    "upazilla_id": "431",
+    "name": "",
+    "bn_name": "ভরতখালী",
+    "url": ""
+  },
+  {
+    "id": "5002",
+    "upazilla_id": "431",
+    "name": "",
+    "bn_name": "সাঘাটা",
+    "url": ""
+  },
+  {
+    "id": "5003",
+    "upazilla_id": "431",
+    "name": "",
+    "bn_name": "মুক্তিনগর",
+    "url": ""
+  },
+  {
+    "id": "5004",
+    "upazilla_id": "431",
+    "name": "",
+    "bn_name": "কচুয়া",
+    "url": ""
+  },
+  {
+    "id": "5005",
+    "upazilla_id": "431",
+    "name": "",
+    "bn_name": "ঘুরিদহ",
+    "url": ""
+  },
+  {
+    "id": "5006",
+    "upazilla_id": "431",
+    "name": "",
+    "bn_name": "হলদিয়া",
+    "url": ""
+  },
+  {
+    "id": "5007",
+    "upazilla_id": "431",
+    "name": "",
+    "bn_name": "জুমারবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "5008",
+    "upazilla_id": "431",
+    "name": "",
+    "bn_name": "কামালেরপাড়া",
+    "url": ""
+  },
+  {
+    "id": "5009",
+    "upazilla_id": "431",
+    "name": "",
+    "bn_name": "বোনারপাড়া",
+    "url": ""
+  },
+  {
+    "id": "5010",
+    "upazilla_id": "434",
+    "name": "",
+    "bn_name": "কঞ্চিপাড়া",
+    "url": ""
+  },
+  {
+    "id": "5011",
+    "upazilla_id": "434",
+    "name": "",
+    "bn_name": "উড়িয়া",
+    "url": ""
+  },
+  {
+    "id": "5012",
+    "upazilla_id": "434",
+    "name": "",
+    "bn_name": "উদাখালী",
+    "url": ""
+  },
+  {
+    "id": "5013",
+    "upazilla_id": "434",
+    "name": "",
+    "bn_name": "গজারিয়া",
+    "url": ""
+  },
+  {
+    "id": "5014",
+    "upazilla_id": "434",
+    "name": "",
+    "bn_name": "ফুলছড়ি",
+    "url": ""
+  },
+  {
+    "id": "5015",
+    "upazilla_id": "434",
+    "name": "",
+    "bn_name": "এরেন্ডাবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "5016",
+    "upazilla_id": "434",
+    "name": "",
+    "bn_name": "ফজলুপুর",
+    "url": ""
+  },
+  {
+    "id": "5017",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "ভোমরাদহ",
+    "url": ""
+  },
+  {
+    "id": "5018",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "কোষারাণীগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "5019",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "খনগাঁও",
+    "url": ""
+  },
+  {
+    "id": "5020",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "পীরগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "5021",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "সৈয়দপুর",
+    "url": ""
+  },
+  {
+    "id": "5022",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "হাজীপুর",
+    "url": ""
+  },
+  {
+    "id": "5023",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "দৌলতপুর",
+    "url": ""
+  },
+  {
+    "id": "5024",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "সেনগাঁও",
+    "url": ""
+  },
+  {
+    "id": "5025",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "জাবরহাট",
+    "url": ""
+  },
+  {
+    "id": "5026",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "বৈরচুনা",
+    "url": ""
+  },
+  {
+    "id": "5027",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "চৈত্রকোল",
+    "url": ""
+  },
+  {
+    "id": "5028",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "ভেন্ডাবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "5029",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "বড়দরগাহ্",
+    "url": ""
+  },
+  {
+    "id": "5030",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "কুমেদপুর",
+    "url": ""
+  },
+  {
+    "id": "5031",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "মদনখালী",
+    "url": ""
+  },
+  {
+    "id": "5032",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "টুকুরিয়া",
+    "url": ""
+  },
+  {
+    "id": "5033",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "বড়আলমপুর",
+    "url": ""
+  },
+  {
+    "id": "5034",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "রায়পুর",
+    "url": ""
+  },
+  {
+    "id": "5035",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "পীরগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "5036",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "শানেরহাট",
+    "url": ""
+  },
+  {
+    "id": "5037",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "পাঁচগাছী",
+    "url": ""
+  },
+  {
+    "id": "5038",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "মিঠিপুর",
+    "url": ""
+  },
+  {
+    "id": "5039",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "রামনাথপুর",
+    "url": ""
+  },
+  {
+    "id": "5040",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "চতরা",
+    "url": ""
+  },
+  {
+    "id": "5041",
+    "upazilla_id": "445",
+    "name": "",
+    "bn_name": "কাবিলপুর",
+    "url": ""
+  },
+  {
+    "id": "5042",
+    "upazilla_id": "455",
+    "name": "",
+    "bn_name": "রৌমারী",
+    "url": ""
+  },
+  {
+    "id": "5043",
+    "upazilla_id": "455",
+    "name": "",
+    "bn_name": "যাদুর চর",
+    "url": ""
+  },
+  {
+    "id": "5044",
+    "upazilla_id": "455",
+    "name": "",
+    "bn_name": "শৌলমারী",
+    "url": ""
+  },
+  {
+    "id": "5045",
+    "upazilla_id": "455",
+    "name": "",
+    "bn_name": "দাতভাঙ্গা",
+    "url": ""
+  },
+  {
+    "id": "5046",
+    "upazilla_id": "455",
+    "name": "",
+    "bn_name": "বন্দবেড়",
+    "url": ""
+  },
+  {
+    "id": "5047",
+    "upazilla_id": "455",
+    "name": "",
+    "bn_name": "চর শৌলমারী",
+    "url": ""
+  },
+  {
+    "id": "5048",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "কামারের চর",
+    "url": ""
+  },
+  {
+    "id": "5049",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "গাজির খামার",
+    "url": ""
+  },
+  {
+    "id": "5050",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "চরপক্ষীমারী",
+    "url": ""
+  },
+  {
+    "id": "5051",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "চরমোচারিয়া",
+    "url": ""
+  },
+  {
+    "id": "5052",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "চরশেরপুর",
+    "url": ""
+  },
+  {
+    "id": "5053",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "ধলা",
+    "url": ""
+  },
+  {
+    "id": "5054",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "পাকুরিয়া",
+    "url": ""
+  },
+  {
+    "id": "5055",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "বলায়ের চর",
+    "url": ""
+  },
+  {
+    "id": "5056",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "বাজিতখিলা",
+    "url": ""
+  },
+  {
+    "id": "5057",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "বেতমারী ঘুঘুরাকান্দি",
+    "url": ""
+  },
+  {
+    "id": "5058",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "ভাতশালা",
+    "url": ""
+  },
+  {
+    "id": "5059",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "রৌহা",
+    "url": ""
+  },
+  {
+    "id": "5060",
+    "upazilla_id": "457",
+    "name": "",
+    "bn_name": "লছমনপুর",
+    "url": ""
+  },
+  {
+    "id": "5061",
+    "upazilla_id": "465",
+    "name": "",
+    "bn_name": "দুল্লা",
+    "url": ""
+  },
+  {
+    "id": "5062",
+    "upazilla_id": "465",
+    "name": "",
+    "bn_name": "বড়গ্রাম",
+    "url": ""
+  },
+  {
+    "id": "5063",
+    "upazilla_id": "465",
+    "name": "",
+    "bn_name": "তারাটি",
+    "url": ""
+  },
+  {
+    "id": "5064",
+    "upazilla_id": "465",
+    "name": "",
+    "bn_name": "কুমারগাতা",
+    "url": ""
+  },
+  {
+    "id": "5065",
+    "upazilla_id": "465",
+    "name": "",
+    "bn_name": "বাঁশাটি",
+    "url": ""
+  },
+  {
+    "id": "5066",
+    "upazilla_id": "465",
+    "name": "",
+    "bn_name": "মানকোন",
+    "url": ""
+  },
+  {
+    "id": "5067",
+    "upazilla_id": "465",
+    "name": "",
+    "bn_name": "ঘোগা",
+    "url": ""
+  },
+  {
+    "id": "5068",
+    "upazilla_id": "465",
+    "name": "",
+    "bn_name": "দাওগাঁও",
+    "url": ""
+  },
+  {
+    "id": "5069",
+    "upazilla_id": "465",
+    "name": "",
+    "bn_name": "কাশিমপুর",
+    "url": ""
+  },
+  {
+    "id": "5070",
+    "upazilla_id": "465",
+    "name": "",
+    "bn_name": "খেরুয়াজানী",
+    "url": ""
+  },
+  {
+    "id": "5071",
+    "upazilla_id": "470",
+    "name": "",
+    "bn_name": "মইলাকান্দা",
+    "url": ""
+  },
+  {
+    "id": "5072",
+    "upazilla_id": "470",
+    "name": "",
+    "bn_name": "গৌরীপুর",
+    "url": ""
+  },
+  {
+    "id": "5073",
+    "upazilla_id": "470",
+    "name": "",
+    "bn_name": "অচিন্তপুর",
+    "url": ""
+  },
+  {
+    "id": "5074",
+    "upazilla_id": "470",
+    "name": "",
+    "bn_name": "মাওহা",
+    "url": ""
+  },
+  {
+    "id": "5075",
+    "upazilla_id": "470",
+    "name": "",
+    "bn_name": "সহনাটি",
+    "url": ""
+  },
+  {
+    "id": "5076",
+    "upazilla_id": "470",
+    "name": "",
+    "bn_name": "বোকাইনগর",
+    "url": ""
+  },
+  {
+    "id": "5077",
+    "upazilla_id": "470",
+    "name": "",
+    "bn_name": "রামগোপালপুর",
+    "url": ""
+  },
+  {
+    "id": "5078",
+    "upazilla_id": "470",
+    "name": "",
+    "bn_name": "ডৌহাখলা",
+    "url": ""
+  },
+  {
+    "id": "5079",
+    "upazilla_id": "470",
+    "name": "",
+    "bn_name": "ভাংনামারী",
+    "url": ""
+  },
+  {
+    "id": "5080",
+    "upazilla_id": "470",
+    "name": "",
+    "bn_name": "সিধলা",
+    "url": ""
+  },
+  {
+    "id": "5081",
+    "upazilla_id": "472",
+    "name": "",
+    "bn_name": "আঠারবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "5082",
+    "upazilla_id": "472",
+    "name": "",
+    "bn_name": "ঈশ্বরগঞ্জ",
+    "url": ""
+  },
+  {
+    "id": "5083",
+    "upazilla_id": "472",
+    "name": "",
+    "bn_name": "উচাখিলা",
+    "url": ""
+  },
+  {
+    "id": "5084",
+    "upazilla_id": "472",
+    "name": "",
+    "bn_name": "জাটিয়া",
+    "url": ""
+  },
+  {
+    "id": "5085",
+    "upazilla_id": "472",
+    "name": "",
+    "bn_name": "তারুন্দিয়া",
+    "url": ""
+  },
+  {
+    "id": "5086",
+    "upazilla_id": "472",
+    "name": "",
+    "bn_name": "বড়হিত",
+    "url": ""
+  },
+  {
+    "id": "5087",
+    "upazilla_id": "472",
+    "name": "",
+    "bn_name": "মগটুলা",
+    "url": ""
+  },
+  {
+    "id": "5088",
+    "upazilla_id": "472",
+    "name": "",
+    "bn_name": "মাইজবাগ",
+    "url": ""
+  },
+  {
+    "id": "5089",
+    "upazilla_id": "472",
+    "name": "",
+    "bn_name": "রাজিবপুর",
+    "url": ""
+  },
+  {
+    "id": "5090",
+    "upazilla_id": "472",
+    "name": "",
+    "bn_name": "সরিষা",
+    "url": ""
+  },
+  {
+    "id": "5091",
+    "upazilla_id": "472",
+    "name": "",
+    "bn_name": "সোহাগী",
+    "url": ""
+  },
+  {
+    "id": "5092",
+    "upazilla_id": "474",
+    "name": "",
+    "bn_name": "বানিহালা",
+    "url": ""
+  },
+  {
+    "id": "5093",
+    "upazilla_id": "474",
+    "name": "",
+    "bn_name": "কাকনী",
+    "url": ""
+  },
+  {
+    "id": "5094",
+    "upazilla_id": "474",
+    "name": "",
+    "bn_name": "তারাকান্দা",
+    "url": ""
+  },
+  {
+    "id": "5095",
+    "upazilla_id": "474",
+    "name": "",
+    "bn_name": "গালাগাঁও",
+    "url": ""
+  },
+  {
+    "id": "5096",
+    "upazilla_id": "474",
+    "name": "",
+    "bn_name": "বালিখা",
+    "url": ""
+  },
+  {
+    "id": "5097",
+    "upazilla_id": "474",
+    "name": "",
+    "bn_name": "কামারগাঁও",
+    "url": ""
+  },
+  {
+    "id": "5098",
+    "upazilla_id": "474",
+    "name": "",
+    "bn_name": "কামারিয়া",
+    "url": ""
+  },
+  {
+    "id": "5099",
+    "upazilla_id": "474",
+    "name": "",
+    "bn_name": "ঢাকুয়া",
+    "url": ""
+  },
+  {
+    "id": "5100",
+    "upazilla_id": "474",
+    "name": "",
+    "bn_name": "রামপুর",
+    "url": ""
+  },
+  {
+    "id": "5101",
+    "upazilla_id": "474",
+    "name": "",
+    "bn_name": "বিসকা",
+    "url": ""
+  },
+  {
+    "id": "5102",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "কুল্লাগড়া",
+    "url": ""
+  },
+  {
+    "id": "5103",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "দুর্গাপুর",
+    "url": ""
+  },
+  {
+    "id": "5104",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "চন্ডিগড়",
+    "url": ""
+  },
+  {
+    "id": "5105",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "বিরিশিরি",
+    "url": ""
+  },
+  {
+    "id": "5106",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "বাকলজোরা",
+    "url": ""
+  },
+  {
+    "id": "5107",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "কাকৈরগড়া",
+    "url": ""
+  },
+  {
+    "id": "5108",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "গাঁওকান্দিয়া",
+    "url": ""
+  },
+  {
+    "id": "5109",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "নওপাড়া",
+    "url": ""
+  },
+  {
+    "id": "5110",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "কিসমত গণকৈড়",
+    "url": ""
+  },
+  {
+    "id": "5111",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "পানানগর",
+    "url": ""
+  },
+  {
+    "id": "5112",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "দেলুয়াবাড়ী",
+    "url": ""
+  },
+  {
+    "id": "5113",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "মাড়িয়া",
+    "url": ""
+  },
+  {
+    "id": "5114",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "ঝালুকা",
+    "url": ""
+  },
+  {
+    "id": "5115",
+    "upazilla_id": "483",
+    "name": "",
+    "bn_name": "জয়নগর",
+    "url": ""
+  },
+  {
+    "id": "5116",
+    "upazilla_id": "489",
+    "name": "",
+    "bn_name": "বড়কাশিয়া বিরামপুর",
+    "url": ""
+  },
+  {
+    "id": "5117",
+    "upazilla_id": "489",
+    "name": "",
+    "bn_name": "বড়তলী বানিয়াহারী",
+    "url": ""
+  },
+  {
+    "id": "5118",
+    "upazilla_id": "489",
+    "name": "",
+    "bn_name": "তেতুলিয়া",
+    "url": ""
+  },
+  {
+    "id": "5119",
+    "upazilla_id": "489",
+    "name": "",
+    "bn_name": "মাঘান সিয়াধার",
+    "url": ""
+  },
+  {
+    "id": "5120",
+    "upazilla_id": "489",
+    "name": "",
+    "bn_name": "সমাজ সহিলদেও",
+    "url": ""
+  },
+  {
+    "id": "5121",
+    "upazilla_id": "489",
+    "name": "",
+    "bn_name": "সুয়াইর",
+    "url": ""
+  },
+  {
+    "id": "5122",
+    "upazilla_id": "489",
+    "name": "",
+    "bn_name": "গাগলাজুর",
+    "url": ""
   }
 ]
